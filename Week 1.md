@@ -54,7 +54,27 @@ A: My writing falls into Fiction and Poetry mainly with some auto non-fiction as
 What tools (or techniques) do you use to write?
 A: Putting pen to paper as soon as I have an idea, walking.
 Why do you use these tools (or techniques)?
-A: its a more productive way of holding and then conforming information to what I want it to look like later on.
+A: it's a more productive way of holding and then conforming information to what I want it to look like later on.
 How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 A:  
+
+Literature, E literature and digital writing - 
+
+E lit def: works with an important literary aspect that takes advantage of the capabilities and contexts provided by the stand-alone or networked computer".
+digital writing - bring a work to life via external tools, sound visuals interactive
+Literature - physical texts that can be archived and usually hold higher regard than that of Elit and digital writing.
+
+Difference between E lit and digital writing? - Further, unlike e-books in which the reader moves from one page to another in a linear fashion, in many digital fictions, the reader has a role in constructing the narrative, either by selecting hyperlinks or by controlling a character's journey through the story world.
+
+first generation elit definition - pre-internet early on to 1995 box of texts, and hyperlinks, 
+second generation definition - 1995 onwards multi-modal capabilities of the web, early internet and de-emphasises the hypertext link. before social media
+third definition generation - current society 
+
+deconstruct what you know about literature to try and define your version of ELit. Does it come down to what we validate as true work? - so published -academic if conforming to literature - texts, If so how do Digital writing and E literature affect this notion?
+
+Quote from Decolonise E-literature - "Even when they are not self-consciously producing literature-- societal concepts of literature are still dominated by the genres and modes developed in the print world-- a huge amount of people have used these tools to produce writing that has stepped away from the page to cross over into electronic literature territory, and it's a crucial move. Whether they know it or not, they are producing third-generation electronic literature."
+this works could live in print but are instead published online, while digital writing encourages something further from the author and the reader.
+
+
+
 
