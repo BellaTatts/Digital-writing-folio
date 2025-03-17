@@ -2,14 +2,21 @@
 
 Looked at readings - Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier and Beyond Taxonomy: Digital Poetics and the Problem of Reading
 
-### reading 1
+### reading 1 -  (Emerson, Lori. Reading Writing Interfaces: From the Digital to the Bookbound, University of Minnesota Press, 2014. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/rmit/detail.action?docID=1680083.)
+
+"All of these interfaces share a common goal underlying their designs: to efface the interface altogether and so also efface our ability to read, let alone write, the interface, definitively turning us into consumers rather than producers of content." 
+
+Technology by the way of umbicomp is the third wave of computing and is embedded in our everyday life rather than just on a computer screen. This form of technology is commonly referred to as ubiquitous computing, which uses more natural interfaces to interact with humans.
+
+Mark believed umbicomp was the antidote to Windows and desktop computing now digital writing is being considered as the anitdote to the invisible nature of umbicomp.
+
 
 
 
 
 ### reading 2
 
-
+[https://watermark.silverchair.com/9780262280211_cae.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzswggM3BgkqhkiG9w0BBwagggMoMIIDJAIBADCCAx0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMaboAodTg78n_i_OnAgEQgIIC7hr54KVpunuvahJ_RjRHmfcUNWoP59SjJN23oHfckWim-lxPAcC_Ox4oyfrKOWtxH5zRlJoPyw-AyR49v366FrKdqPg0FNWlhEdrzwldY3N3RWFXP752duQDeJIfz44VNwxVfkJ6jwfWXXYApdKPQ8ec_M3JgNUbB5wJ0nt13xEAgy8RF5b_GNbDw1wWMHt4XJEIk_S9gtQiefzRbJnClmmeUFdtH9-QcQ5r9lRacbeE8Kk2NNy1QlPguv-J_PiX_tnQbj_CNqQiCdvLLs75AaquGnOwNSpMpxaBjjBSwolUkl2av0XEuN_KnbgxWS7cu1BQhQNLixOryRFdJNuuvVMbzzS_s-t_XcfuEOgv7q6rXNS7qinz8YSzxGwBW0JrMri7GlX6ILlEo1aN2QmUGqI_c7AynylCs1NBi1ohGuUmaH8ZHuLC7Vb245sK0F--OxBqrJFQxINO6xSlCXK_6X5h9_kl0Ua0UZHRUqRZ-9jYQEtg8MJJUnXPA1iFa2ElUb8fqabVgGAPEMl9w7ENGfO3hiWnefrGBpe8JYAZNhThO4pd3-ZlKjFgPqpeWIFxLRsJSJq17VT_Y4OZ2m_W1h11qc1Dx5hvIbAmlhG4b3bk4F9kCWO9lnlMGoENJFbH677BeBxBcLbNUeePmpp9P0wpCBcVo3mOyPXdJGl_sPRdVF1MCkLK8SZGtls7Bd73Xh4FLNZRHiKxBJ8dGjoq1xUxbQa4Qn3WzJkItJssHnBYv0tXuBZMfpzdlUzTHLi1GjqDrq3HUMBma79L7CdvgwF3PxTDJDbN2DyHCiEHRWN9fYANRTwnNp6pFmp4f7hhXk5jgcNKWx_Fu4QWT8zVKkgRBiTG94GodFRxbTaWUY0YUDJj-vqL5JopLfzFdS8XYa27T-66mt_39JVbDsBhjnrWrzMWmV9r5g3QgK4U-nGQ46ckoXi8O0-1cgfQPn4SHab7QJBsiMNPBf_FrEcVtJrDCLDZ0zxJZ-oPZqN60Q ](https://direct.mit.edu/books/book/2676/chapter/72441/Electric-Line-The-Poetics-of-Digital-Audio-Editing)
 
 ### Exercises 
 
