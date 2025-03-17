@@ -87,8 +87,8 @@ const words =
   "blake lively and Anna Kendrick",]
 
   ["cockatoo's and magpies which one is louder",
-  "current agricultural news",]
-  "cats",
+  "current agricultural news",
+  "cats",]
 
   ["docs.google",
   "dancing with the stars",
