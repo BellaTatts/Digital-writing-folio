@@ -1,4 +1,4 @@
-# Week 3 
+<img width="345" alt="Screen Shot 2025-03-17 at 11 52 29 am" src="https://github.com/user-attachments/assets/b59efe64-d1a4-4248-9652-13e3100a6666" /># Week 3 
 
 Looked at readings - Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier and Beyond Taxonomy: Digital Poetics and the Problem of Reading
 
@@ -50,6 +50,12 @@ const sevenSyllables =
 const buttonHaiku = document.getElementById("button-haiku");
 
 <img width="349" alt="Screen Shot 2025-03-17 at 11 49 26 am" src="https://github.com/user-attachments/assets/c72f35ab-571e-4a98-b8bf-a37bc5707783" />
+
+<img width="344" alt="Screen Shot 2025-03-17 at 11 53 21 am" src="https://github.com/user-attachments/assets/c9214511-c791-440b-8849-d9e362f13fff" />
+
+<img width="350" alt="Screen Shot 2025-03-17 at 11 53 53 am" src="https://github.com/user-attachments/assets/6f8f9f69-db90-4619-af2a-6abffb8c2df4" />
+
+
 
 
 the searching poem 
