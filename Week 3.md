@@ -118,4 +118,42 @@ const words =
 
 the dystopian dreams poem
 
+Index
+
+   <!-- formatting and words for poem-->
+      <div class="columnXl">
+        <!-- specifies the width of the card -->
+        <div class="The idle life">
+          <p>The idle life(After T.S. Eliott <a href="https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock.html">The love song</a>)</p>
+          <hr />
+          <div id="poem" style="text-align: right"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <footer></footer>
+</html>
+
+Script
+
+//start of code for poem
+
+const subjects =
+    "Patient, woman, Michelangelo, prophet, mermaids,".split(
+      ","
+    ),
+  verbs =
+    ",Soot that falls from chimneys, made a sudden leap, The yellow smoke that rubs its muzzle on the window-panes, arms that lie,".split(
+      ","
+    ),
+  objects =
+    "half-deserted streets,one-night cheap hotels, sawdust restaurants with oyster-shells, floors of silent seas, walk upon the beach, the sprinkled streets,".split(
+      ","
+    );
+// set up the counter
+let counter = 0;
+
+<img width="385" alt="Screen Shot 2025-03-17 at 3 47 18 pm" src="https://github.com/user-attachments/assets/a3adac56-3ccc-44ea-9a0c-68d04e55fa7e" />
+
+
 Have to choose a work from the Electronic Literature collection - A vast and lonely desert 
