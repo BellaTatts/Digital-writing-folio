@@ -68,12 +68,15 @@ const buttonHaiku = document.getElementById("button-haiku");
 Script 
 
 //start of search function
+
 const textWrapper = document.getElementById("text-wrapper");
+
 const textInput = document.getElementById("text-input");
+
 //search function constants
-//play with Google search function to come up with search terms most relevant to you. Think about how these search terms tell a story. Replace all of the placeholder text below (phrases in red font) with search terms of your own. If you keep the phrases organised alphabetically, you can ensure you have enough results for each word.
-const words = [
-  "angry bees and how to deal with them",
+
+const words = 
+  ["angry bees and how to deal with them",
   "artificial intelligence",
   "artbook - how to draw for dummies",
   "acrostic poems and how to write one",
@@ -93,7 +96,7 @@ const words = [
   "electric Literature",
   "Entire solar systems yet to be discovered",
 
-  "french fries from Grill'd",
+  "french fries from Grill'd",]
 
   <img width="347" alt="Screen Shot 2025-03-17 at 12 29 11 pm" src="https://github.com/user-attachments/assets/09a13023-56f5-4f40-a62f-645fa9d6529c" />
 
