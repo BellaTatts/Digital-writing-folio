@@ -1,4 +1,4 @@
-<img width="345" alt="Screen Shot 2025-03-17 at 11 52 29 am" src="https://github.com/user-attachments/assets/b59efe64-d1a4-4248-9652-13e3100a6666" /># Week 3 
+# Week 3 
 
 Looked at readings - Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier and Beyond Taxonomy: Digital Poetics and the Problem of Reading
 
@@ -9,7 +9,7 @@ Looked at readings - Indistinguishable from Magic: Invisible Interfaces and Digi
 
 ### reading 2
 
-The Grefield poem 
+The Garfield poem 
 Index
       <h4>B's Version</h4>
           <!-- once you have replaced the 5 and 7 syllable variables in the script.js file with your own content, 'remix' the poem to see what Haiku generate; once you find three Haiku that you like, replace the below placeholder text by transcribing your poem-->
