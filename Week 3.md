@@ -9,7 +9,12 @@ Looked at readings - Indistinguishable from Magic: Invisible Interfaces and Digi
 
 ### reading 2
 
-The Garfield poem 
+
+
+### Exercises 
+
+#### The Garfield poem 
+
 Index
       <h4>B's Version</h4>
           <!-- once you have replaced the 5 and 7 syllable variables in the script.js file with your own content, 'remix' the poem to see what Haiku generate; once you find three Haiku that you like, replace the below placeholder text by transcribing your poem-->
@@ -58,7 +63,44 @@ const buttonHaiku = document.getElementById("button-haiku");
 
 
 
-the searching poem 
+#### The searching poem 
+
+Script 
+
+//start of search function
+const textWrapper = document.getElementById("text-wrapper");
+const textInput = document.getElementById("text-input");
+//search function constants
+//play with Google search function to come up with search terms most relevant to you. Think about how these search terms tell a story. Replace all of the placeholder text below (phrases in red font) with search terms of your own. If you keep the phrases organised alphabetically, you can ensure you have enough results for each word.
+const words = [
+  "angry bees and how to deal with them",
+  "artificial intelligence",
+  "artbook - how to draw for dummies",
+  "acrostic poems and how to write one",
+
+  "baked goods that are easy to make",
+  "bowen street press",
+  "blake lively and Anna Kendrick",
+
+  "cockatoo's and magpies which one is louder",
+  "current agricultural news",
+  "cats",
+
+  "docs.google",
+  "dancing with the stars",
+  "david attenborough",
+
+  "electric Literature",
+  "Entire solar systems yet to be discovered",
+
+  "french fries from Grill'd",
+
+  <img width="347" alt="Screen Shot 2025-03-17 at 12 29 11 pm" src="https://github.com/user-attachments/assets/09a13023-56f5-4f40-a62f-645fa9d6529c" />
+
+<img width="347" alt="Screen Shot 2025-03-17 at 12 29 38 pm" src="https://github.com/user-attachments/assets/ae5136cc-f525-4760-80d5-3c60772ae2ea" />
+
+
+
 
 the dystopian dreams poem
 
