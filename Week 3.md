@@ -27,7 +27,8 @@ Index
 
 Script
 const fiveSyllables = [
-  "orange soda on hot cement",
+  
+  ["orange soda on hot cement",
   "sunflowers in the city",
   "Like blue we fell endlessly",
   "singing larks under morning light",
@@ -35,15 +36,16 @@ const fiveSyllables = [
   "The river I follow until it ends",
   "There are angels in my hair",
   "I must sleep",
-  "The ramen is alive",
-];
-const sevenSyllables = [
-  "Live, love and eat",
+  "The ramen is alive",];
+
+const sevenSyllables = 
+
+  ["Live, love and eat",
   "Noodles and cream cheese",
   "I fell asleep only to awake in another world",
   "City scraps made of metal",
-  "Soda I cannot drink",
-];
+  "Soda I cannot drink",];
+
 //code for haiku function (do not edit)
 const buttonHaiku = document.getElementById("button-haiku");
 
