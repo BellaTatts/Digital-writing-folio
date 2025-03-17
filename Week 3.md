@@ -76,27 +76,28 @@ const textInput = document.getElementById("text-input");
 //search function constants
 
 const words = 
+  
   ["angry bees and how to deal with them",
   "artificial intelligence",
   "artbook - how to draw for dummies",
-  "acrostic poems and how to write one",
+  "acrostic poems and how to write one",]
 
-  "baked goods that are easy to make",
-  "bowen street press",
-  "blake lively and Anna Kendrick",
+  ["baked goods that are easy to make",
+  "Bowen Street Press",
+  "blake lively and Anna Kendrick",]
 
-  "cockatoo's and magpies which one is louder",
-  "current agricultural news",
+  ["cockatoo's and magpies which one is louder",
+  "current agricultural news",]
   "cats",
 
-  "docs.google",
+  ["docs.google",
   "dancing with the stars",
-  "david attenborough",
+  "david attenborough",]
 
-  "electric Literature",
-  "Entire solar systems yet to be discovered",
+  ["electric Literature",
+  "Entire solar systems yet to be discovered",]
 
-  "french fries from Grill'd",]
+  ["french fries from Grill'd",]
 
   <img width="347" alt="Screen Shot 2025-03-17 at 12 29 11 pm" src="https://github.com/user-attachments/assets/09a13023-56f5-4f40-a62f-645fa9d6529c" />
 
