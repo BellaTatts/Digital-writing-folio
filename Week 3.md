@@ -182,6 +182,9 @@ Restrictions on poetry writing,
 The Dadaist Poem - cutting up pieces of work and then rearranging them
 Anna Hock was well-known for using this practice, and Bowie was also known to make music using a similar method. 
 
+Example: <img width="394" alt="Screen Shot 2025-03-19 at 4 21 24 pm" src="https://github.com/user-attachments/assets/e36e24a1-1847-4264-af99-880955594b7c" />
+
+
 Lipogram meaning - a composition from which the writer systematically omits a certain letter or certain letters of the alphabet.
 
 Example
