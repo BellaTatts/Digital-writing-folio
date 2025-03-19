@@ -19,7 +19,13 @@ Mark believed umbicomp was the antidote to Windows and desktop computing now dig
 Electric Line: The Poetics of Digital Audio Editing
 Martin Spinelli
 
+Defining Electronic Literature questions:
 
+What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+How are those elements meaningful?
+How are the works read differently from print literature?
+How is electronic literature different from print literature?
+What are the qualities of the works we might consider as qualities of electronic literature?
 
 ### Exercises 
 
@@ -155,5 +161,38 @@ let counter = 0;
 
 <img width="385" alt="Screen Shot 2025-03-17 at 3 47 18 pm" src="https://github.com/user-attachments/assets/a3adac56-3ccc-44ea-9a0c-68d04e55fa7e" />
 
+What aspects of the remix are the same?
+What aspects of the remix are different?
+Is the remix successful (why or why not)?
 
-Have to choose a work from the Electronic Literature collection - A vast and lonely desert 
+Assignment 1
+analyse the form - only choose a few, 
+do not have to look at the code more about how is it working from a reading point of view,
+explore the idea and the questions we have about it as well as its relationship to E-lit 
+articulating what it does, how it works, does it work?
+draw on concepts in the readings - eg it's a first-generation
+
+#### Algorithm and Constraint
+
+Algorithm: An internal logic a system can follow as well as use as a foundation to answer questions.
+Constraint: A limitation or restriction.
+Restrictions on poetry writing,
+
+
+The Dadaist Poem - cutting up pieces of work and then rearranging them
+Anna Hock was well-known for using this practice, and Bowie was also known to make music using a similar method. 
+
+Lipogram meaning - a composition from which the writer systematically omits a certain letter or certain letters of the alphabet.
+
+Example
+Mushroom caps stuck on black wrought iron,
+Bogged-out houses filled with scuttling bugs and sinking floors.
+But in the building, ghosts roam displacing and absorbing the prior,
+Human Kind isn't immortal.
+
+
+mesostics - a poem or other text arranged so that a vertical phrase intersects lines of horizontal text.
+John Cage - very experimental with form. Creating his own rules for his compositions. played a cactus, has a song with 4 minutes of just silence.
+
+
+Have to choose a work from the Electronic Literature Collection - The Vine and the fish
