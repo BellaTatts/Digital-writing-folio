@@ -29,6 +29,14 @@ What are the qualities of the works we might consider as qualities of electronic
 
 ### Exercises 
 
+What is an algorithm? What is a constraint?
+Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+Why were the Oupilo writers so interested in the intersection of maths and literature?
+How does algorthmic writing make us think differently about authorship?
+Pen and Paper
+
+Use pen and paper in applying the following processes and constraints. Take a photo of the results or transcribe them and add them to your folio.
+
 #### The Garfield poem 
 
 Index
