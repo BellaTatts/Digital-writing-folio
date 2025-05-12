@@ -1,3 +1,7 @@
+
+Current twine porject update: file:///Users/isabellatattersall/Downloads/Rabbit%20(14).html
+
+
 Today we will focus on making author websites in Glitch using an easy-to-use template built by Jenny with the help of ChatGPT. We will publish our author sites through GitHub, assigning them the URL username.github.io, much like Jenny's author website is on jennyhedley.github.io. If you miss class, you can read about how to publish to your github.io page.
 
 Here is the website which you can edit for your own purposes. You may also create your own design from scratch or with the help of AI.
