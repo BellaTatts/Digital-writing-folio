@@ -6,3 +6,16 @@ Next Monday the tech content around writing games using platforms such as Bitsy 
 
 As we continue progressing towards Assessments 2 and 3, we will work with the tech tools that we have already been exposed to. There will be time during future classes, for example, for us to complete the author website portion of the folio requirement.
 
+Toward Assessment 2 (and 3) activity and discussion
+
+See the slide deck on Canvas modules Student Works 2024. These are three successful examples of developed digital works and they are all very different.
+
+Critically reflect on these works by asking the same sort of questions as you asked of the case study Ass 1:
+
+How does it work? What does it do? How does the reader interact with the piece? What is conveyed by the digital work?
+How does the digital affordance work with the piece’s themes? Does its function deepen the meaning and interpretation of the themes for you as a reader?
+Think about: the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used.
+How does this work make you reflect on your own ideas and what you might do for your own piece? Requirement for final folio write 250 to 300 (minimum) words on this (can be done any time this week)
+See the slide deck on Canvas modules Jenny's Final Project
+Read the contextual statements and consider how the form and function of each aspect of this piece feeds into the themes of the work.
+See the map of Jenny's Twine story on Slide 8. How might you map your own emerging ideas? (If you have not already done the mapping exrcise from last week please catch up on this.)
