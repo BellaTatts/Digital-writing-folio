@@ -1,5 +1,15 @@
 proposal information here
 
+I have decided to use Twine as the coding medium for my story. 
+
+Discuss what I thought I was doing (poem) and what I'm now doing, which is an AI story.
+disccus use of chapbook - pros and cons and issues with coding, vs Harlow.
+
+include 
+
+first prototype link: blob:https://twinery.org/529e24db-a7e3-48f9-9578-2f41739bd87e
+include issues + failures + successes
+
 Once we have completed a test image map - basic is okay, no need to overdo it! - then if you have attended all the classes so far and/or have otherwise kept up with the learning, the good news is that there is no more required new technology for you to learn.
 
 Next Monday the tech content around writing games using platforms such as Bitsy and Inform 7 is optional. If you do not include those in your portfolio, you will not be penalised.
