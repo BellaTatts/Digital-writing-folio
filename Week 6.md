@@ -7,12 +7,37 @@ disccus use of chapbook - pros and cons and issues with coding, vs Harlow.
 
 include 
 
-first prototype link: blob:https://twinery.org/607ad343-33c4-4946-9684-0299b8d6dc10
+first prototype link: [Rabbit.html.zip](https://github.com/user-attachments/files/20180355/Rabbit.html.zip)
 
-[Rabbit.html.zip](https://github.com/user-attachments/files/20180355/Rabbit.html.zip)
+Ok so I am using Chapbook which utilises different coding to others like Harlow or icecube. 
+
+first I created the passages - i started with four and worked out how to link them. 
+
+<img width="435" alt="Screen Shot 2025-05-13 at 12 43 36 pm" src="https://github.com/user-attachments/assets/44abf1fb-dd02-4d79-904a-96fc58a9fb77" />
+
+So the coding for this part turned out pretty simple - as an example -  [[continue]] would allow the sotry to progress
+[[Back]] would go back a page - if I wanted to go to particular page I could use [[continue->fleeing]]. 
+
+<img width="273" alt="image" src="https://github.com/user-attachments/assets/aeae5290-0daa-4754-a253-c1263e9c8638" />
+
+
+After that I then attempeted to embed an image with the code, but each time I'd press play this would come up:
+
+<img width="767" alt="Screen Shot 2025-05-13 at 12 48 38 pm" src="https://github.com/user-attachments/assets/09c667f9-6845-45c0-bddb-8105cf2961a7" />
+
+{embed image: "https://img.freepik.com/premium-photo/nature-technology-harmony-generative-by-ai_893571-8408"}
+
+Now the issue i realised was that in order for the coding to recongnise what i was trying to do it needed to be a J-peg or Png. 
+so instead I altered it to adhere to those rules: 
+
+{embed image: "https://img.freepik.com/premium-photo/nature-technology-harmony-generative-by-ai_893571-8408.jpeg"}
+
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/51de17ea-81fa-464b-9bee-3119dc0b9bf3" />
 
 
 include issues + failures + successes
+
+### Miro image map
 
 Once we have completed a test image map - basic is okay, no need to overdo it! - then if you have attended all the classes so far and/or have otherwise kept up with the learning, the good news is that there is no more required new technology for you to learn.
 
