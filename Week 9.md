@@ -1,6 +1,11 @@
 
 Current twine porject update: file:///Users/isabellatattersall/Downloads/Rabbit%20(14).html
 
+so here is the what I am worknig with so far with the website: 
+
+<img width="888" alt="Screen Shot 2025-05-13 at 11 37 27 am" src="https://github.com/user-attachments/assets/5259dc1f-05db-4155-bfc7-6f7d73d28959" />
+
+I am trying to add a theme, but I am struggling with how to go about that. I'm not sure if it is to do with adding another file or just an entirely new repository, but so far I have managed to alter the colouring to the light pink that I want, I may even just keep the structure as is but alter wording!
 
 Today we will focus on making author websites in Glitch using an easy-to-use template built by Jenny with the help of ChatGPT. We will publish our author sites through GitHub, assigning them the URL username.github.io, much like Jenny's author website is on jennyhedley.github.io. If you miss class, you can read about how to publish to your github.io page.
 
