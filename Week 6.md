@@ -9,7 +9,8 @@ include
 
 first prototype link: blob:https://twinery.org/607ad343-33c4-4946-9684-0299b8d6dc10
 
-[Uploading Rabbit.html…]()
+[Rabbit.html.zip](https://github.com/user-attachments/files/20180355/Rabbit.html.zip)
+
 
 include issues + failures + successes
 
