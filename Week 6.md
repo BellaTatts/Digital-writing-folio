@@ -8,6 +8,9 @@ disccus use of chapbook - pros and cons and issues with coding, vs Harlow.
 include 
 
 first prototype link: blob:https://twinery.org/607ad343-33c4-4946-9684-0299b8d6dc10
+
+[Uploading Rabbit.html…]()
+
 include issues + failures + successes
 
 Once we have completed a test image map - basic is okay, no need to overdo it! - then if you have attended all the classes so far and/or have otherwise kept up with the learning, the good news is that there is no more required new technology for you to learn.
