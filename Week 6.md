@@ -42,8 +42,8 @@ I find it easiest to plan it out into parts rather than just beginning, middle a
 https://miro.com/app/board/uXjVI2_zWUk=/?share_link_id=502221320391
 
 
-#### Bitzy
-I had a look at Bitzy as well, but found the overall concept unnecessary for my project.
+#### Bitsy
+I had a look at Bitsy as well, but found the overall concept unnecessary for my project.
 
 #### Past student works
 
