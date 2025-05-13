@@ -5,17 +5,17 @@ Looked at the Scroll animation for the speech and investigated whether or not I 
 Looked at the Vine and the fish.
 
 #### Background info: 
-For some background context, Hook is a cartoonist and illustrator based in Stockholm, Sweden. Her work has appeared in The Believer, The New Yorker. Typically, Hook’s work seeks to represent emotional strains of everyday problems in the form of literary stories formatted as comic strips like the nest and Beijing bike. There is a reserved quality to her work that provides an interesting contrast to its inherent emotional content this flows onto the colour palate. The vine and the fish is no different, but instead of the classic comic it utilises a limited-animation down scrolling comic that compares the "invasive species" like the kudzu vine and the Asian carp to xenophobia and generalized anti-immigration sentiment that was fanned during the Trump administration.
+For some background context, Hook is a cartoonist and illustrator based in Stockholm, Sweden. Her work has appeared in The Believer, The New Yorker. Typically, Hook’s work seeks to represent emotional strains of everyday problems in the form of literary stories formatted as comic strips, like the Nest and Beijing bike. There is a reserved quality to her work that provides an interesting contrast to its inherent emotional content, which flows onto the colour palette. The vine and the fish is no different, but instead of the classic comic, it utilises a limited-animation down-scrolling comic that compares the "invasive species" like the kudzu vine and the Asian carp to xenophobia and generalised anti-immigration sentiment that was fanned during the Trump administration.
 
 #### Problems with Scroll animation: 
-This type of animation is linked to the scroll position of a scroll container. This means that when you scroll up or down, the linked animation scrubs forward or backward in direct response, thus moving between images and text. One of the issues I found in Hooks' work and a problem across most creators using this form of animation is linking the images and text with the scroll motion. I found it rather easy to miss images and text if I were to scroll to fast. I also found that the inclusion of images and sound created extra 'noise.' So instead of just focusing on the message of the story, the animation was what had the most impact.
+This type of animation is linked to the scroll position of a scroll container. This means that when you scroll up or down, the linked animation scrubs forward or backward in direct response, thus moving between images and text. One of the issues I found in Hooks' work and a problem across most creators using this form of animation is linking the images and text with the scroll motion. I found it rather easy to miss images and text if I were to scroll too fast. I also found that the inclusion of images and sound created extra 'noise.' So, instead of just focusing on the message of the story, the animation was what had the most impact.
 
 ![Page-1-Panel-5](https://github.com/user-attachments/assets/8c75d68c-e0d9-43e8-acb4-b0b78897cdeb)
 
 
 <img width="523" alt="Screen Shot 2025-05-13 at 10 02 54 am" src="https://github.com/user-attachments/assets/6eb3dc1b-a310-4307-a98e-f7a1c340aca1" />
 
-At the moment, I'm trying to create a GitHub website as doing such a thing will allow me to create the scroll animation effect. I'm using Visual Studio Code, but I am having problems with the website.
+At the moment, I'm trying to create a GitHub website, as doing such a thing will allow me to create the scroll animation effect. I'm using Visual Studio Code, but I am having problems with the website.
 
 <img width="735" alt="Screen Shot 2025-05-13 at 10 20 22 am" src="https://github.com/user-attachments/assets/ca9da766-2385-46cf-b58d-cab62a98b864" />
 
@@ -23,13 +23,12 @@ As each time I put it in, this comes up:
 
 <img width="813" alt="Screen Shot 2025-05-13 at 10 22 26 am" src="https://github.com/user-attachments/assets/be7de964-2e1c-4647-ac98-6e1bf3825e05" />
 
+I'm going to leave this for now and come back to it later, once I have a more concrete idea of what I want to do.
 
+### Twine
 I haven't had any issues with deploying the coding playground, however, I made a note to utilise Vercel in case of any issues.
 
-My response to using twine - Upon trying my hand at scroll animation, I attempted to do it through big brand names such as wix, but when I attempted the coding, it required further fees, which I will discuss down below: 
-
-
-Today we will focus on learning Twine, a user-friendly platform for writing interactive fiction. Jenny will begin with a 1990s example of pioneering hypertext fiction before sharing contemporary examples of Twine stories published in literary journals, and Lucinda will follow up in the Wednesday class with student examples so you'll have an idea of the level of work you might be expected to produce.
+My response to using twine - Upon trying my hand at scroll animation, I attempted to do it through big brand names such as wix, but when I attempted the coding, it required further fees, which I will discuss down below. But when I first started using Twine I found the beginner form called chapbook - which is a step below Harlow.
 
 Key terms in Twine - 
 CSS (Cascading style sheets): is programming language for describing the presentation of HTML elements (i.e. the colors, fonts, spacing, and general layout of a web page). When using Twine, additional CSS rules can be added through the Story Stylesheet screen. This CSS is inserted into the final story and provides an opportunity to override the color and formatting choices expressed in the story format's own stylesheet.
@@ -38,15 +37,57 @@ There are three primary forms of selectors in CSS:
 
 ### type: 
 These select different elements like <p> or <div>. They are written using the form of p {} or div {}.
+
 ### class: 
 These select elements based on their class attribute. They are written using the form .className.
+
 ### id: 
 These select elements based on their id attribute. They are written using the form #idName.
 
-Java script:
-HTML: 
-Twee: 
-Passages: 
+JavaScript: When using Twine, extra functionality can be added through the Story JavaScript screen. This is run before the Story is run and provides an opportunity to write specialized code or include external libraries and files. 
+
+window.setup Example
+
+window.setup = window.setup || {};
+
+HTML: The HyperText Markup Language (HTML) is the standard for all documents designed for a web browser. It consists of a series of elements defining its structure and the layout of its content.
+
+Each story format handles its own layout and HTML structure. While CSS can be used to style its elements, it is often recommended to use any existing macros for this purpose in a story format, if available.
+
+Example:
+
+<tw-storydata>
+  <style
+    role="stylesheet"
+    id="twine-user-stylesheet"
+    type="text/twine-css">
+  </style>
+  <script
+    role="script"
+    id="twine-user-script"
+    type="text/twine-javascript">
+  </script>
+  <tw-tag
+    name="tagName"
+    color="orange">
+  </tw-tag>
+  <tw-passagedata
+        pid="1"
+        name="Start"
+        tags="tag1 tag2"
+        position="102,99"
+        size="100,100">
+    Some content
+    </tw-passagedata>
+</tw-storydata>
+
+Twee: Twee is the source code of a Twine story. In Twine 1, stories could be exported into its source, changed, and imported again. Twine 2 has moved away from this functionality, but has been heavily influenced through having sections (passages in Twine 1) where the user can add CSS (Story Stylesheet) and JavaScript (Story JavaScript).
+
+Passages: Passages can be thought of as divisions of time, space, or combinations of the two. They can also be thought of as blocks of dialogue, sections of code, or simply ways to break up a complicated project into more easily understood parts. In Twine, passages are at the core of any story.
+
+Hypertext: Hypertext is a system for linking related text documents that allows the participation of multiple users. In a hypertext document, any word or phrase can be “hyperlinked” to information related to that word or phrase residing in the same document or in another document. When a hyperlink is activated, the hypertext system retrieves the related information. For example, by selecting a word in a sentence, the definition of that word is retrieved. (So basically it is a source that, once clicked it transports the viewer to a new screen.)
+
+### Readings
 
 looked at 1990s hypertext example called my body.
 
