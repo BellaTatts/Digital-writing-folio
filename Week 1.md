@@ -39,6 +39,9 @@ Look at mirror
 Sleep!
 **
 
+<img width="1009" alt="Screen Shot 2025-05-15 at 9 03 37 am" src="https://github.com/user-attachments/assets/7d04c6c5-3cb0-4a3a-a8f6-a864f5ac906c" />
+
+
 
 ### First impressions of this course
 Complicated but a process that can be creatively beneficial to improving how readers interact with works of writing.  
