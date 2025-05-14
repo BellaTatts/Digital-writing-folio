@@ -38,7 +38,6 @@ Look at mirror
 
 Sleep!
 **
-[image](https://github.com/user-attachments/assets/3208208d-8df9-40cd-807c-7e91e5aa5787)
 
 
 ### First impressions of this course
