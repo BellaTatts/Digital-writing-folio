@@ -32,6 +32,7 @@ Martin Spinelli
 
 
 **Questions:**
+
 Defining Electronic Literature questions:
 
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
@@ -55,18 +56,21 @@ A:
 
 ### Exercises 
 
+I give a more definite definiton below of both but here I will broaden the scope of that understanding.
+
 What is an algorithm? 
-A:
+A: 
 
 What is a constraint?
 A:
 
-Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+Can you think of ways you might already be using these in your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
 Why were the Oupilo writers so interested in the intersection of maths and literature?
-How does algorthmic writing make us think differently about authorship?
-Pen and Paper
+A: 
 
-Use pen and paper in applying the following processes and constraints. Take a photo of the results or transcribe them and add them to your folio.
+How does algorthmic writing make us think differently about authorship?
+A: It plays into the idea that nothing is truly ours if all of it exists in some form already. 
+
 
 #### The Garfield poem 
 
@@ -209,10 +213,10 @@ let counter = 0;
 
 
 What aspects of the remix are the same?
-A: 
+A: For all three, font, textual size and colour remain the same. None of the structual coding has been changed.
 
 What aspects of the remix are different?
-A:
+A: Wording, and style choice have all altered.
 
 Is the remix successful (why or why not)?
 A:
@@ -229,7 +233,7 @@ draw on concepts in the readings - eg it's a first-generation
 
 Algorithm: An internal logic a system can follow as well as use as a foundation to answer questions.
 Constraint: A limitation or restriction.
-Restrictions on poetry writing,
+
 
 
 **The Dadaist Poem -** cutting up pieces of work and then rearranging them
@@ -238,7 +242,7 @@ Anna Hock was well-known for using this practice, and Bowie was also known to ma
 <img width="540" alt="Screen Shot 2025-05-15 at 4 15 11 pm" src="https://github.com/user-attachments/assets/da0a37e4-2c40-4cd4-8df8-b534be459305" />
 
 
-TO:
+**TO:**
 
 <img width="522" alt="Screen Shot 2025-05-15 at 4 15 59 pm" src="https://github.com/user-attachments/assets/8a199b8f-dadc-41cd-910d-4a007b6e9dde" />
 
@@ -246,17 +250,18 @@ TO:
 Example: <img width="394" alt="Screen Shot 2025-03-19 at 4 21 24 pm" src="https://github.com/user-attachments/assets/e36e24a1-1847-4264-af99-880955594b7c" />
 
 
-Lipogram meaning - a composition from which the writer systematically omits a certain letter or certain letters of the alphabet.
+**Lipogram meaning -** a composition from which the writer systematically omits a certain letter or certain letters of the alphabet.
 
-Example
-Mushroom caps stuck on black wrought iron,
+**Example**
+
+_Mushroom caps stuck on black wrought iron,
 Bogged-out houses filled with scuttling bugs and sinking floors.
 But in the building, ghosts roam displacing and absorbing the prior,
-Human Kind isn't immortal.
+Human Kind isn't immortal._
 
 
-mesostics - a poem or other text arranged so that a vertical phrase intersects lines of horizontal text.
-John Cage - very experimental with form. Creating his own rules for his compositions. played a cactus, has a song with 4 minutes of just silence.
+**Mesostics -** a poem or other text arranged so that a vertical phrase intersects lines of horizontal text.
+**John Cage -** very experimental with form. Creating his own rules for his compositions. played a cactus, has a song with 4 minutes of just silence.
 
 
 Have to choose a work from the Electronic Literature Collection - The Vine and the fish
