@@ -170,11 +170,17 @@ let counter = 0;
 <img width="385" alt="Screen Shot 2025-03-17 at 3 47 18 pm" src="https://github.com/user-attachments/assets/a3adac56-3ccc-44ea-9a0c-68d04e55fa7e" />
 
 What aspects of the remix are the same?
-What aspects of the remix are different?
-Is the remix successful (why or why not)?
+A: 
 
-Assignment 1
-analyse the form - only choose a few, 
+What aspects of the remix are different?
+A:
+
+Is the remix successful (why or why not)?
+A:
+
+
+#### Assignment 1
+Analyse the form - only choose a few, 
 do not have to look at the code more about how is it working from a reading point of view,
 explore the idea and the questions we have about it as well as its relationship to E-lit 
 articulating what it does, how it works, does it work?
@@ -189,6 +195,13 @@ Restrictions on poetry writing,
 
 The Dadaist Poem - cutting up pieces of work and then rearranging them
 Anna Hock was well-known for using this practice, and Bowie was also known to make music using a similar method. 
+
+<img width="1009" alt="Screen Shot 2025-05-15 at 9 03 37 am" src="https://github.com/user-attachments/assets/658c172c-8642-4f27-b556-f41fe5ff692c" />
+
+TO:
+
+<img width="522" alt="Screen Shot 2025-05-15 at 4 15 59 pm" src="https://github.com/user-attachments/assets/8a199b8f-dadc-41cd-910d-4a007b6e9dde" />
+
 
 Example: <img width="394" alt="Screen Shot 2025-03-19 at 4 21 24 pm" src="https://github.com/user-attachments/assets/e36e24a1-1847-4264-af99-880955594b7c" />
 
