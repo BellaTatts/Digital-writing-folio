@@ -1,8 +1,10 @@
 # Week 3 
 
-Looked at readings - Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier and Beyond Taxonomy: Digital Poetics and the Problem of Reading
+#### Readings
 
-### reading 1 -  (Emerson, Lori. Reading Writing Interfaces: From the Digital to the Bookbound, University of Minnesota Press, 2014. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/rmit/detail.action?docID=1680083.)
+
+
+### Reading 1 - 
 
 "All of these interfaces share a common goal underlying their designs: to efface the interface altogether and so also efface our ability to read, let alone write, the interface, definitively turning us into consumers rather than producers of content." 
 
@@ -14,22 +16,48 @@ Mark believed umbicomp was the antidote to Windows and desktop computing now dig
 
 
 
-### reading 2
+### Reading 2 - 
 
 Electric Line: The Poetics of Digital Audio Editing
 Martin Spinelli
 
+
+
+
+
+### Reading 3 - 
+
+
+
+
+
+**Questions:**
 Defining Electronic Literature questions:
 
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+A: 
+
 How are those elements meaningful?
+A:
+
 How are the works read differently from print literature?
+A:
+
 How is electronic literature different from print literature?
+A:
+
 What are the qualities of the works we might consider as qualities of electronic literature?
+A:
+
+
+
+
 
 ### Exercises 
 
-What is an algorithm? What is a constraint?
+What is an algorithm? 
+
+What is a constraint?
 Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
 Why were the Oupilo writers so interested in the intersection of maths and literature?
 How does algorthmic writing make us think differently about authorship?
@@ -39,7 +67,9 @@ Use pen and paper in applying the following processes and constraints. Take a ph
 
 #### The Garfield poem 
 
-Index
+**Index**
+
+
       <h4>B's Version</h4>
           <!-- once you have replaced the 5 and 7 syllable variables in the script.js file with your own content, 'remix' the poem to see what Haiku generate; once you find three Haiku that you like, replace the below placeholder text by transcribing your poem-->
           <p id="haiku-1-1">orange soda on hot cement</p>
@@ -54,7 +84,9 @@ Index
           <p id="haiku-3-2">Nothing left to do but sleep</p>
           <p id="haiku-3-3">Eating ramen in minus seven degrees</p>
 
-Script
+**Script**
+
+
 const fiveSyllables = [
   
   ["orange soda on hot cement",
@@ -89,7 +121,7 @@ const buttonHaiku = document.getElementById("button-haiku");
 
 #### The searching poem 
 
-Script 
+**Script** 
 
 //start of search function
 
@@ -123,6 +155,8 @@ const words =
 
   ["french fries from Grill'd",]
 
+  
+
   <img width="347" alt="Screen Shot 2025-03-17 at 12 29 11 pm" src="https://github.com/user-attachments/assets/09a13023-56f5-4f40-a62f-645fa9d6529c" />
 
 <img width="347" alt="Screen Shot 2025-03-17 at 12 29 38 pm" src="https://github.com/user-attachments/assets/ae5136cc-f525-4760-80d5-3c60772ae2ea" />
@@ -130,9 +164,9 @@ const words =
 
 
 
-the dystopian dreams poem
+**The dystopian dreams poem**
 
-Index
+**Index**
 
    <!-- formatting and words for poem-->
       <div class="columnXl">
@@ -148,7 +182,7 @@ Index
   <footer></footer>
 </html>
 
-Script
+**Script**
 
 //start of code for poem
 
@@ -168,6 +202,8 @@ const subjects =
 let counter = 0;
 
 <img width="385" alt="Screen Shot 2025-03-17 at 3 47 18 pm" src="https://github.com/user-attachments/assets/a3adac56-3ccc-44ea-9a0c-68d04e55fa7e" />
+
+
 
 What aspects of the remix are the same?
 A: 
@@ -193,10 +229,11 @@ Constraint: A limitation or restriction.
 Restrictions on poetry writing,
 
 
-The Dadaist Poem - cutting up pieces of work and then rearranging them
+**The Dadaist Poem -** cutting up pieces of work and then rearranging them
 Anna Hock was well-known for using this practice, and Bowie was also known to make music using a similar method. 
 
-<img width="1009" alt="Screen Shot 2025-05-15 at 9 03 37 am" src="https://github.com/user-attachments/assets/658c172c-8642-4f27-b556-f41fe5ff692c" />
+<img width="540" alt="Screen Shot 2025-05-15 at 4 15 11 pm" src="https://github.com/user-attachments/assets/da0a37e4-2c40-4cd4-8df8-b534be459305" />
+
 
 TO:
 
