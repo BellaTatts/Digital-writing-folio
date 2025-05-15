@@ -56,8 +56,11 @@ A:
 ### Exercises 
 
 What is an algorithm? 
+A:
 
 What is a constraint?
+A:
+
 Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
 Why were the Oupilo writers so interested in the intersection of maths and literature?
 How does algorthmic writing make us think differently about authorship?
