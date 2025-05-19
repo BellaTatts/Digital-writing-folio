@@ -31,9 +31,10 @@ I haven't had any issues with deploying the coding playground, however, I made a
 My response to using twine - Upon trying my hand at scroll animation, I attempted to do it through big brand names such as wix, but when I attempted the coding, it required further fees, which I will discuss down below. But when I first started using Twine I found the beginner form called chapbook - which is a step below Harlow.
 
 Key terms in Twine - 
-CSS (Cascading style sheets): is programming language for describing the presentation of HTML elements (i.e. the colors, fonts, spacing, and general layout of a web page). When using Twine, additional CSS rules can be added through the Story Stylesheet screen. This CSS is inserted into the final story and provides an opportunity to override the color and formatting choices expressed in the story format's own stylesheet.
+**CSS (Cascading style sheets):** is programming language for describing the presentation of HTML elements (i.e. the colors, fonts, spacing, and general layout of a web page). When using Twine, additional CSS rules can be added through the Story Stylesheet screen. This CSS is inserted into the final story and provides an opportunity to override the color and formatting choices expressed in the story format's own stylesheet.
+For reference the stylsheet is th final visual presentation of your story.
 
-There are three primary forms of selectors in CSS:
+**There are three primary forms of selectors in CSS:**
 
 ### type: 
 These select different elements like <p> or <div>. They are written using the form of p {} or div {}.
@@ -44,13 +45,13 @@ These select elements based on their class attribute. They are written using the
 ### id: 
 These select elements based on their id attribute. They are written using the form #idName.
 
-JavaScript: When using Twine, extra functionality can be added through the Story JavaScript screen. This is run before the Story is run and provides an opportunity to write specialized code or include external libraries and files. 
+**JavaScript:** When using Twine, extra functionality can be added through the Story JavaScript screen. This is run before the Story is run and provides an opportunity to write specialized code or include external libraries and files. 
 
 window.setup Example
 
 window.setup = window.setup || {};
 
-HTML: The HyperText Markup Language (HTML) is the standard for all documents designed for a web browser. It consists of a series of elements defining its structure and the layout of its content.
+**HTML:** The HyperText Markup Language (HTML) is the standard for all documents designed for a web browser. It consists of a series of elements defining its structure and the layout of its content.
 
 Each story format handles its own layout and HTML structure. While CSS can be used to style its elements, it is often recommended to use any existing macros for this purpose in a story format, if available.
 
@@ -81,11 +82,13 @@ Example:
     </tw-passagedata>
 </tw-storydata>
 
-Twee: Twee is the source code of a Twine story. In Twine 1, stories could be exported into its source, changed, and imported again. Twine 2 has moved away from this functionality, but has been heavily influenced through having sections (passages in Twine 1) where the user can add CSS (Story Stylesheet) and JavaScript (Story JavaScript).
+**Twee:** Twee is the source code of a Twine story. In Twine 1, stories could be exported into its source, changed, and imported again. Twine 2 has moved away from this functionality, but has been heavily influenced through having sections (passages in Twine 1) where the user can add CSS (Story Stylesheet) and JavaScript (Story JavaScript).
 
-Passages: Passages can be thought of as divisions of time, space, or combinations of the two. They can also be thought of as blocks of dialogue, sections of code, or simply ways to break up a complicated project into more easily understood parts. In Twine, passages are at the core of any story.
+**Passages:** Passages can be thought of as divisions of time, space, or combinations of the two. They can also be thought of as blocks of dialogue, sections of code, or simply ways to break up a complicated project into more easily understood parts. In Twine, passages are at the core of any story.
 
-Hypertext: Hypertext is a system for linking related text documents that allows the participation of multiple users. In a hypertext document, any word or phrase can be “hyperlinked” to information related to that word or phrase residing in the same document or in another document. When a hyperlink is activated, the hypertext system retrieves the related information. For example, by selecting a word in a sentence, the definition of that word is retrieved. (So basically it is a source that, once clicked it transports the viewer to a new screen.)
+**Hypertext:** Hypertext is a system for linking related text documents that allows the participation of multiple users. In a hypertext document, any word or phrase can be “hyperlinked” to information related to that word or phrase residing in the same document or in another document. When a hyperlink is activated, the hypertext system retrieves the related information. For example, by selecting a word in a sentence, the definition of that word is retrieved. (So basically it is a source that, once clicked it transports the viewer to a new screen.)
+
+
 
 ### Readings
 
@@ -98,15 +101,12 @@ Hypertext: Hypertext is a system for linking related text documents that allows 
 It was an interesting read that took the concept of identity and turned it into something much more than that. It was both vulgar and nessassary as it devles into the physce of how we view ourselves and our internal organs. Not just visually but how we interact with and majorly overlook them.
 I tohught the use of hypertext was well done as it was succinet in moving between the different parts without having too much overlap. I thought it also smart that she used images to make it clear which part you were at, paritucarly if you were just gonig throguh the hypertext links. For my own work, I would like to make clear distinctions between certain parts, particuarly the beginning and the ending. Since I am working on the vine and the fish which is a scroll animation, I am considering using the same medium in my own work.
 
-looked at twine and what it is.
-
-looked at how to chnage the story style sheet
 
 
 #### Practical Assignment 2 planning
 
 For a brief definition of scroll animation: "It is a common UX pattern on the web. These are animations that are linked to the scroll position of a scroll container. This means that as you scroll up or down, the linked animation scrubs forward or backward in direct response." 
 
-Idea/Concept: A Futuristic look into AI in a world without life. I am looking at ideas of how I could fit the scroll animation into my work. Since I am considering looking at The Vine and the Fish as my example for assignment 1, I have been researching how to work with it with CSS. I am not quite confident with the overall coding part, but I have been looking at videos like down below to help translate some of the language. Although twine does have many good elements too that might actually fit better, if i want the story to b more interactive.
+Idea/Concept: A Futuristic look into AI in a world without life. I am looking at ideas of how I could fit the scroll animation into my work. Since I am considering looking at The Vine and the Fish as my example for assignment 1, I have been researching how to work with it with CSS. I am not quite confident with the overall coding part, but I have been looking at videos like down below to help translate some of the language. Although twine does have many good elements too that might actually fit better, if i want the story to be more interactive.
 https://www.youtube.com/watch?v=UmzFk68Bwdk
 
