@@ -40,7 +40,7 @@ include issues + failures + successes
 
 I find it easiest to plan it out into parts rather than just beginning, middle and end. I have linked the Miro page below for easy access.
 
-https://miro.com/app/board/uXjVI2_zWUk=/?share_link_id=502221320391
+https://miro.com/app/board/uXjVI2_zWUk=/?share_link_id=12724440297
 
 
 #### Bitsy
