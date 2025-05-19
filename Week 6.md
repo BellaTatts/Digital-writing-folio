@@ -5,7 +5,8 @@ From past weeks, I was leaning toward scroll animation, but have decided to inst
 Discuss what I thought I was doing (poem) and what I'm now doing, which is an AI story.
 Discuss the use of chapbook - pros and cons and issues with coding, vs Harlow.
 
-First prototype link: [Rabbit.html.zip](https://github.com/user-attachments/files/20180355/Rabbit.html.zip)
+First prototype link: file:///Users/isabellatattersall/Downloads/Rabbit%202.html 
+
 
 Ok so I am using Chapbook which utilises different coding to others like Harlow or icecube. 
 
