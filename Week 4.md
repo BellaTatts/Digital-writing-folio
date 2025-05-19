@@ -89,9 +89,17 @@ Hypertext: Hypertext is a system for linking related text documents that allows 
 
 ### Readings
 
-looked at 1990s hypertext example called my body.
+**My Body by Shelly Jackson**
+
+![eyebrow](https://github.com/user-attachments/assets/30de6d33-e33e-4737-82c3-3574c647e2f6)
+
+![eyebrow](https://github.com/user-attachments/assets/9f5187d7-ef20-45d7-a5a2-f9abc8158967)
+
+It was an interesting read that took the concept of identity and turned it into something much more than that. It was both vulgar and nessassary as it devles into the physce of how we view ourselves and our internal organs. Not just visually but how we interact with and majorly overlook them.
+I tohught the use of hypertext was well done as it was succinet in moving between the different parts without having too much overlap. I thought it also smart that she used images to make it clear which part you were at, paritucarly if you were just gonig throguh the hypertext links. For my own work, I would like to make clear distinctions between certain parts, particuarly the beginning and the ending. Since I am working on the vine and the fish which is a scroll animation, I am considering using the same medium in my own work.
 
 looked at twine and what it is.
+
 looked at how to chnage the story style sheet
 
 
