@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7b109b2-6d3f-4d42-b0e7-cbddf43f63b7)# Week 3 
+# Week 3 
 
 #### Readings
 
