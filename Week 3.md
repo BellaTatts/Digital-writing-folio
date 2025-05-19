@@ -10,7 +10,7 @@
 
 Technology by the way of umbicomp is the third wave of computing and is embedded in our everyday life rather than just on a computer screen. This form of technology is commonly referred to as ubiquitous computing, which uses more natural interfaces to interact with humans.
 
-Mark believed umbicomp was the antidote to Windows and desktop computing now digital writing is being considered as the anitdote to the invisible nature of umbicomp.
+Mark believed umbicomp was the antidote to Windows and desktop computing now digital writing is being considered as the antidote to the invisible nature of umbicomp.
 
 **Oulipian theory** - 
 
@@ -23,7 +23,7 @@ The perception of writing back then was a wholly different artifice which prided
 
 **Quote:** "Constraints are treated therein as aberrations, as pathological monstrosities of language and of writing; the works resulting from them are not even worthy to be called "works"
 
-Its this idea that to exceed ones literary limits is to go down the path of madness. Perec believed such tactics were used to stunt innovation. Oulipian was a literary paradox, he both worked the traditionalist method while also delved into the experimental.
+It's this idea that to exceed one's literary limits is to go down the path of madness. Perec believed such tactics were used to stunt innovation. Oulipian was a literary paradox, he both worked the traditionalist method while also delved into the experimental.
 
 I wonder if the hesitance and sometimes downright refusal to accept change was due to more than just straying from the norm? Much like how we see mathematics involvement in writing as highly unusual - although practised much more when we consider the endless potential of coding - the pressure to conform to what worked and the fear of the 'what if' that creatively binds itself to any writer. 
 
@@ -39,12 +39,12 @@ An interesting find was how people categorised the experimental and the traditio
 
 Is coding the epicentre between literature and software? If we are to consider the current software as a true loss to digital making - now all we have is predetermined choices, then maybe E lit is important to tempering our consumptive natures by feeding our more creative outlets.  
 
-But much like the fears from Oulipian's time we seem to have nothing but a constant flow of 'new.' New writing techniques, new writing types or variations of what was. Maybe this is our form of constraint, one that struggles to return to more traditional values is what the past writers feared - recluse when they were included forgotten when excluded. 
+But much like the fears from Oulipian's time we seem to have nothing but a constant flow of 'new.' New writing techniques, new writing types or variations of what was. Maybe this is our form of constraint, one that struggles to return to more traditional values is what the past writers feared - recluse when they were included, forgotten when excluded. 
 
 
 ### Reading 3 - 
 
-The concept of synergy to describe the relationship between poetry and intelligent machines is a testament to what they can create. While not always considered to be legitimate, the work is relevant to this generation how we are often combining both the physical world and the technological one.
+The concept of synergy to describe the relationship between poetry and intelligent machines is a testament to what they can create. While not always considered to be legitimate, the work is relevant to this generation as we are often combining both the physical world and the technological one.
 
 
 **Fluid Definition of Digital Poetry**
@@ -71,40 +71,118 @@ Memmott's chapter challenges traditional literary criticism by presenting digita
 Defining Electronic Literature questions:
 
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+
 A: 
 
-How are those elements meaningful?
-A:
+**Taroko Gorge by Nick Montfort (2009)**
+Type: Procedurally generated poetry
+Platform: Web-based JavaScript
 
-How are the works read differently from print literature?
-A: Well to start, the relationship between author and viewer is vaslty different, with E lit having an almost co piolt when the present their work, paritucarly if it is interactive, which allows individuals to make thier own decisions and turns it from a one sided read to a multifacted choose your ouw story. The next and most obvious point would be the medium in which it is presented, Print literature as the name suggests is a phyiscal copy of a peice of work, whilst E lit is a computer-based work (there is a lot more involved than just that, but the jist of where the work originates is correct). The most important part however is how a work is read. If I was to try and picture shade for example as a print version, I would have to assume that such a book would be targeted to a younger audience. I cannot see how you would be able to achieve such a thing in a small print book - maybe in sections you can fit in an if scenario where the reader writes different options which corralte to a certian derective, but even then it would make for such a clunky read. Similar thing for the others - 'the gathering cloud' could potentially work in a poetry book with the images overlapping already, first draft revolution could be done as a multi part series with every option a new book to experince how ceritan responses can change an outcome. Taroko Gorge would also have a similar problem seeing as it uses 
+**Elements You Read:**
 
-How is electronic literature different from print literature?
-A:
+Code-Generated Text: The poem is generated in real time through a set of JavaScript rules. The reader encounters an endless stream of nature-themed verse, always changing.
 
-What are the qualities of the works we might consider as qualities of electronic literature?
-A:
+**Patterns and Variability:** You "read" how words shift—syntax, diction, and repetition become poetic through variation.
 
-
-
+**Interpretation:**
+It’s a performance of language and code: the poem never repeats exactly, suggesting impermanence, process, and the artificiality of "natural" language.
 
 
-### Exercises 
+2. **The Gathering Cloud by J.R. Carpenter (2016)**
+Type: Web-based poetic essay / media-rich narrative
+Platform: HTML, CSS, JavaScript
 
-I give a more definite definiton below of both but here I will broaden the scope of that understanding.
+**Elements You Read:**
 
-What is an algorithm? 
-A: 
+**Layered Text:** Paragraphs combine scientific, historical, and poetic language about clouds and data.
 
-What is a constraint?
-A:
+**Images and Animations:** Historical illustrations and cloud imagery visualize the metaphors and critique of digital culture.
 
-Can you think of ways you might already be using these in your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
-Why were the Oupilo writers so interested in the intersection of maths and literature?
-A: 
+**Scrolling as Navigation:** You read spatially—scrolling reveals hidden content, so the screen becomes a space to move through.
 
-How does algorthmic writing make us think differently about authorship?
-A: It plays into the idea that nothing is truly ours if all of it exists in some form already. 
+**Interactive Elements:** Hover or click functions reveal more text, simulating the fluidity and ephemerality of clouds and information.
+
+**Interpretation:**
+The work critiques data storage, environmental impact, and metaphor—you’re reading the aesthetics of interface, temporality, and excess.
+
+
+3. **First Draft of the Revolution by Emily Short (text) & Liza Daly (design/programming) (2012)**
+Type: Interactive fiction / epistolary narrative
+Platform: Web, designed as interactive letters
+
+**Elements You Read:**
+
+**Textual Revision:** You revise letters written by the protagonist, seeing alternative versions.
+
+**Interface Mechanics:** Clicking to edit text gives insight into character psychology and narrative tension.
+
+**Narrative Branches:** What you change affects the progression—story as interaction, not linear exposition.
+
+**Interpretation:**
+You read narrative possibility and constraint: What’s allowed to be said or censored reflects the emotional and political stakes of the characters' world.
+
+4. **Shade by Andrew Plotkin (2000)**
+Type: Interactive fiction (parser-based)
+Platform: Z-machine / text parser
+
+**Elements You Read:**
+
+**Text Descriptions:** A classic IF experience, where typed commands trigger detailed environmental and internal monologue.
+
+**Command Responses:** You “read” through your own actions, exploring a shifting, increasingly surreal apartment.
+
+**Shifting Environment:** Text changes with each input, gradually warping your sense of place and reality.
+
+**Interpretation:**
+The game explores isolation, memory, and identity. You read the gap between what is said and what is happening—ambiguity is a central device.
+
+**How are those elements meaningful?**
+
+A: When we consider a print work as 'good' or 'meaningful' its normally for a number of reasons - the writing style, clarity of information told (is there a clear beginnig, middle and end), the central turning point of a story, the climax. And most importnatly I beleive is the readability. It matters not if your work has the makings of the next Jane Austen if the reader gets lost in the acndeotes and vocab. So when we look at E lit and more importantly the examples above we have to take into account that such things like structure and understanding are now entierly in the hands of the viewer, which now makes such elements and bits of coding we cannot see even more important. For E lit, it isnt just about the parts you can see, but the parts you can interact with, the things you can do. There are many times when reading a book where you wish you could make a different decision but are not able to - in first draft of the revolution you can. Or where you require both the visual and written work to write a story that most fiction books just dont have, in the gathering cloud a story is told with more than just words but with sporadically placed images that pop up as you continue. 
+
+**How are the works read differently from print literature?**
+
+A:  If I was to try and picture shade for example as a print version, I would have to assume that such a book would be targeted to a younger audience. I cannot see how you would be able to achieve such a thing in a small print book - maybe in sections you can fit in an if scenario where the reader writes different options which correlate to a certain directives, but even then it would make for such a clunky read. Similar thing for the others - 'the gathering cloud' could potentially work in a poetry book with the images overlapping already, first draft revolution could be done as a multi part series with every option a new book to experience how certain responses can change an outcome. Taroko Gorge would also have a similar problem seeing as it uses 
+
+**How is electronic literature different from print literature?**
+
+A: Well to start, the relationship between author and viewer is vastly different, with E lit having an almost copilot when the present their work, particularly if it is interactive, which allows individuals to make their own decisions and turns it from a one sided read to a multifaceted choose your own story. The next and most obvious point would be the medium in which it is presented, Print literature as the name suggests is a physical copy of a piece of work, whilst E lit is a computer-based work (there is a lot more involved than just that, but the gist of where the work originates is correct). The most important part however is how a work is read.
+
+**What are the qualities of the works we might consider as qualities of electronic literature?**
+
+A: Use of HTML (It relies on computer-based platforms for its composition, distribution, and consumption), whilst some might argue on this one, language (meaning poetic, while not all works can be considered poetry, many of the works I have read fall into that flowery poetic style, including prose), interactivity - work that is created to allow viewers to interact with the elements. nonlinear structures, allowing multiple paths through a text.
+Hyperlinks, branching narratives, and variable sequences challenge traditional reading habits. Whilst this does branch into multiple generations, I do think that things like hypertext are innately E literature.
+
+
+
+
+
+
+
+### Exercises + Questions 
+
+I give a more basic definiton below of both but here I will broaden the scope of that understanding.
+
+**What is an algorithm?** 
+A: Algorithms work by following a set of instructions or rules to complete a task or solve a problem. They can be expressed as natural languages, programming languages, pseudocode, flowcharts and control tables. We use all sorts of algorithms in our coding practices. 
+
+**What is a constraint?**
+A: For the purpose of this work i am going to be considering constraint as a literary practise: which is where writers follow specific rules or limitations while coming up with text. These constraints are often self-imposed and used as a writing exercise to inspire creativity and think within a set of boundaries. 
+
+**Can you think of ways you might already be using these in your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?**
+
+A: For my current work, I am reducing the amount I write on paper to better incorporate the technological side of things, this also means I am writing pieces that are much shorter - I am only allowed to write something with a max of 800 words, must include beginning, middle and end. I am also using images as a way to write, I pick an image and write from it, this is so I can include it in my work and have a better understanding of what my viewers will be experiencing when they look at my work.
+
+**Why were the Oupilo writers so interested in the intersection of maths and literature?**
+A: Math is all about patterns and univsersal rules. Oulipians believed that literary constraints, often derived from mathematical structures or logic, could liberate creativity, not stifle it.
+
+Example: Writing a novel without the letter “e” (lipogram) like Georges Perec’s La Disparition (A Void).
+
+Mathematics provided systematic, formal rules for creating these constraints, turning literature into a kind of structured game. An interesting terminolgy when we look at E literature and the opinions on whether it counts as a proper writing style. 
+
+**How does algorthmic writing make us think differently about authorship?**
+
+A: It plays into the idea that nothing is truly ours if all of it exists in some form already. It also feeds into the idea of what we consider to be true writing - writing done by a human versus writing inputed by a human but formaulated by a computer. 
 
 
 #### The Garfield poem 
@@ -266,8 +344,8 @@ draw on concepts in the readings - eg it's a first-generation
 
 #### Algorithm and Constraint
 
-Algorithm: An internal logic a system can follow as well as use as a foundation to answer questions.
-Constraint: A limitation or restriction.
+**Algorithm:** An internal logic a system can follow as well as use as a foundation to answer questions.
+**Constraint:** A limitation or restriction.
 
 
 
@@ -299,4 +377,4 @@ Human Kind isn't immortal._
 **John Cage -** very experimental with form. Creating his own rules for his compositions. played a cactus, has a song with 4 minutes of just silence.
 
 
-Have to choose a work from the Electronic Literature Collection - The Vine and the fish
+I am considering who to look at for my first assignment and have choosen a work from the Electronic Literature Collection - _The Vine and the fish_
