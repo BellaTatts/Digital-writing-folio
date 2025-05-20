@@ -1,4 +1,3 @@
-file:///Users/isabellatattersall/Downloads/Rabbit%20(3).html
 
 Hypertext fiction: concepts, precursors, critical framing. Below are some links and references to assist your thinking and understanding of hypertext. As we have learned, hypertext was one of the first innovations in E-Literature and remains an important aspect of this diverse field.
 
