@@ -104,7 +104,7 @@ _Quote:_
 
 Literary riddles and interactive fiction are related in four important ways: Both have a systematic world, are something to be solved, present challenge and appropriate difficulty, and join the literary and the puzzling.
 
-Montfort, Nick. Twisty Little Passages : An Approach to Interactive Fiction, MIT Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/rmit/detail.action?docID=5966542.
+
 
 
 #### On Savoir-Faire: 
