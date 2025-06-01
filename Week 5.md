@@ -159,6 +159,8 @@ A: there are a few ways i could do this - I really like the idea of hypertext bu
 **"in what sense can a hypertext be a narrative?**
 
 A: I would say that hypertext is a tool that can be used to narrate a story rather than purely narrative. In a sense hypertext can direct a story and be the control behind which way a story goes, but I wouldnt refer to it as narrative as it doesnt write the story. I would argue that the narrator is what guides the reader and thus the story, which means that while hypertext is just a tool it can have narrative elements.
+
+
 **Is hypertext a literary genre or a literary technique?"**
 
 A: 
