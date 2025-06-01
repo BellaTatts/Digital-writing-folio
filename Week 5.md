@@ -1,28 +1,49 @@
-
 ### **Hypertext fiction Print Precursors examples and my opinions on them:**
 
-Marc Saporta, Composition No. 1 (1961)
+**Marc Saporta, Composition No. 1 (1961)**
 
-A: 
+A: Marc Saporta’s Composition No. 1 (1962) is a ground breaking work of experimental fiction. Instead of following the traditional method of a bound format, it instead has around 150 unbound pages placed in a box, with each page containing a vignette. This type of literary experimentation allows readers to make a decision of the order in which to read them creating a unique narrative experience. It might contain the same themes and words but it is clear that the reading of it and the emotional response can vary depending on which order it is read in.
 
-Vladimir Nabokov, Pale Fire (1962)
+The  synopsis of the novel states that the story is centred around a group of Parisians during world war 2. told in fragmented pieces the reader must piece these narrative threads together. But due to how it is written the story is dependent on how the reader shapes it. 
 
-A:
+The story challenges customary storytelling with its non linear structure and by creating autonomy on the reader's part in assembling the narrative. Each page is a snapshot of a moment or character, and the lack of a chronological order opens up room for readers to engage and personalize the reading experience.
+
+**Vladimir Nabokov, Pale Fire (1962)**
+
+A: Pale Fire (1962) by Vladimir Nabokov while it isn't an interactive fiction piece in the normal sense does contain similar structures and complexes which make it something of its own. The work described as an unconventional novel that blends poetry, fiction, and literary criticism into a complex and metafictional work, utilises poor narration and a non linear structure to make for a more engaging piece. It forces the readers to try and understand the interpretation which means a less passive read.  
+
+_Does that mean that narration is key to interactive fiction - so a poor narrator means more interactivity?_ 
+
+Pale Fire is a work that reflects the 999 line poem with the same title by the fictional poet John Shade followed by commentary written on the side by Charles Kinbote. The story includes detailed contemplations on death and the what comes after, it strives to makes sense and show clarity on the anguish of Kinbote's madness as well as the tragic story of Shade's unattractive and lonely daughter. 
+
+The Author plays with this idea of authorial control, and gives a sort of madness to the piece when it comes to who should 'own' the text. The author of the book, the fictional poet or the commentor.
 
 
-Julio Cortázar, Hopscotch (1963)
+**Julio Cortázar, Hopscotch (1963)**
 
-A:
+Hopscotch by Julio Cortazar is often considered a proto-hypertext, while not computerised it does follow rather similar conventions. The narrative revolves around our lead Horacio Oliveira, the first chapter up to 56 follow like a conventional novel after that the reader has a chance to choose how to continue the story. He is an Argentine intellectual living between Paris and Buenos Aires, whose life aims to answer existential questions and the meaning of life.
+
+_Multiple Reading Paths:_
+
+Hopscotch gives a Table of Instructions at the beginning which give two primary ways to read it. The first is the more traditional linear reading of the initial chapters, while the second requires a non-linear approach incorporates later chapters. This means the reader can experience and potentially uncover different aspects of the story. 
+
+_Expendable Chapters:_
+
+The novel also has "expendable chapters" which while appearing random can be sued to solve quandaries found in the main story. A bit more personal and a lot more interactive These chapters mean readers have the choice to delve into these sections or ignore them, impacting their overall understanding of the story. 
 
 
-BS Johnson, The Unfortunates (1969)
 
-A: 
+**BS Johnson, The Unfortunates (1969)**
+
+A: Whilst quite similar to Pale fire in terms of format - both use the concept of a box filled with unbound chapters, for BS only the first and last chapter are numbered the rest can be read however - BS Johnson chooses to show his differences in the context, whilst pale fire focused heavily of death and grief and the essence of literary creation and reception, Unfortunates, explores themes of power, societal structures, and individual agency.  It reinforces the idea of truth as something inherently messy and sometimes quite ugly.
 
 
-Choose Your Own Adventure (1979–1998)
 
-A: 
+**Choose Your Own Adventure (1979–1998)**
+
+A: The Choose Your Own Adventure series is a second person narrative which uses interactive gameplay such as branching storylines - normally as page numbers to follow - to make readers the protagonists of their own stories. At certain points it will give choices to how the continuation of the story can go - e.g., "If you go left, turn to page 10. If you go right, turn to page 30.)
+More interestingly however is how reflective of dungeons and dragons it is, not just in the types of themes and range of genres, but how the readers actions can lead to success or failure, much like a real game would have, it truly does put emphasis on exploration as the key takeaway from this story.
+
 
 
 
@@ -133,12 +154,11 @@ These frameworks challenge essentialist categories and invite more fluid, partic
 
 **How could you plan hypertext fiction?**
 
-A: 
+A: there are a few ways i could do this - I really like the idea of hypertext but in a literary form, a bit like pale fire. I think it is a plausiable method of creating a physical copy of hypertext.
 
 **"in what sense can a hypertext be a narrative?**
 
-A:
-
+A: I would say that hypertext is a tool that can be used to narrate a story rather than purely narrative. In a sense hypertext can direct a story and be the control behind which way a story goes, but I wouldnt refer to it as narrative as it doesnt write the story. I would argue that the narrator is what guides the reader and thus the story, which means that while hypertext is just a tool it can have narrative elements.
 **Is hypertext a literary genre or a literary technique?"**
 
 A: 
@@ -147,10 +167,13 @@ A:
 **Tools to plan out my work/ what works, what doesnt**
 
 A: 
-Miro: 
-Padlet: online posit note board
-Scrivener: corkbaord function 
-Notes: 
+Miro: I have had a lot of success with Miro, the tool itself allows me to intergrate both visuals and the beignnings of ideas. I have just set up a new page and will start to plan out my idea for my final assingment.
+
+Padlet: I have used padlet before and while I like the function and accesibilty of it, I find the system finicky and not as clean but as Miro. 
+
+Scrivener: I didnt mind the setup for this as it was a lot more clean cut and easier to use, however moving and planning what I wanted was harder and not as easy, i think in future if I wanted to plan out anoything i would need a tool which encomapsed both accesibilty and more interactivty.
+
+Notes: This is really just a tool to process thoughts and not reall a way for me to cleanly plan out my story.
 
 
 
