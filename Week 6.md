@@ -81,6 +81,8 @@ Discussed the condition of IF - often text-based, allowing users to control a ch
 
 Below is a simple graph which highlights the diegesis in its simplest form and the corresponding motions attached to it.
 
+![image](https://github.com/user-attachments/assets/98029471-67a6-483b-bf2b-dab670bbf62d)
+
 
 Whilst there are considered to be many version of IF worlds - in the sense that they cannot all fall under one banner - I believe that is because of the sheer breadth of If stories out there as well as the need to refuse binary terms that could make it a definite term that could be compared to something else.
 
