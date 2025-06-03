@@ -80,6 +80,9 @@ i made this. you play this. we are enemies whilst using similar techniques to cr
 
 Ultimately, gggag and i made this. you play this. we are enemies was made to confront users interpretive filters and western ideologies by offering something which is raw and real. 
 
+Nelson, J. (2021). Poetic Playlands: Poetry, Interface, and Video Game Engines. In J. O’Sullivan (Authors), Electronic Literature as Digital Humanities: Contexts, Forms, & Practices (pp. 335–350). New York,: Bloomsbury Academic. Retrieved June 2, 2025, from http://dx.doi.org/10.5040/9781501363474.ch-030![image](https://github.com/user-attachments/assets/d3112506-2a48-4e21-8992-9a2d8458e0d8)
+
+
 
 Assessment 1 Feedback 
 
