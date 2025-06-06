@@ -126,4 +126,10 @@ While the commands are simple the responses may not be. Which makes the work unp
 I wonder if interactive fiction is becoming so popular because of this unpredictability that literature seems to have?
 
 
+References
+
+Montfort, N. (2004). _Riddles. In Nick Montfort, Twisty little passages : an approach to interactive fiction_ (pp. 37–63). MIT Press. https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=5966542&ppg=54
+
+Short, E. (2007). _On Savoir-Faire. In Pat Harrigan (Ed.), Second person : role playing and story in games and playable media_ (pp. 147–148). MIT Press. https://rmit.alma.exlibrisgroup.com/view/delivery/61RMIT_INST/12270521920001341
+
 
