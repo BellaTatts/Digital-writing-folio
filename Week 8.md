@@ -1,5 +1,19 @@
 Assignment 2 - process of creating the final piece.
 
+![Page-1-Panel-5](https://github.com/user-attachments/assets/8c75d68c-e0d9-43e8-acb4-b0b78897cdeb)
+
+
+<img width="523" alt="Screen Shot 2025-05-13 at 10 02 54 am" src="https://github.com/user-attachments/assets/6eb3dc1b-a310-4307-a98e-f7a1c340aca1" />
+
+At the moment, I'm trying to create a GitHub website, as doing such a thing will allow me to create the scroll animation effect. I'm using Visual Studio Code, but I am having problems with the website.
+
+<img width="735" alt="Screen Shot 2025-05-13 at 10 20 22 am" src="https://github.com/user-attachments/assets/ca9da766-2385-46cf-b58d-cab62a98b864" />
+
+As each time I put it in, this comes up:
+
+<img width="813" alt="Screen Shot 2025-05-13 at 10 22 26 am" src="https://github.com/user-attachments/assets/be7de964-2e1c-4647-ac98-6e1bf3825e05" />
+
+I'm going to leave this for now and come back to it later, once I have a more concrete idea of what I want to do.
 Today in class we will work through reflective and mapping exercises help you confirm the scope of your piece, and identify key tasks that you need to develop and resolve it. Your final work must be a complete work, not a prototype, with ideas that have been introduced, developed and resolved.
 
 In Assessment 2 you have introduced these ideas. Our activity today will help you to identify what needs to be developed and how to resolve your piece within the timeframe you have got.
