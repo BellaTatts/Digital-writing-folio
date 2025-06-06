@@ -5,10 +5,15 @@ https://itch.io/games/made-with-bitsy
 
 Bitsy game example 1: Novena
 
+<img width="520" alt="Screen Shot 2025-06-06 at 9 48 31 pm" src="https://github.com/user-attachments/assets/ac916f87-4506-40e1-9438-1239cf533991" />
+
+Very similar to House on the Hill with its graphics and use of space bar and computer arrows. I thought it was also smart how it used purple as the defining colour and yellow as the markers to help the viewer know where to go. It is a clean-cut story. I also liked how we can see the comments below of what other people thought.
 
 
 
-Bitsy game example 2: the mountain is as it always was
+Bitsy game example 2: The mountain is as it always was
+
+It is a reflective piece of what is means to be alive. It is the same style as the one above, just with different images and a storyline. I did enjoy some of the effects which came with the story, like the wave-like movement which was a transition element to another section. 
 
 
 
@@ -16,122 +21,92 @@ Class discussion
 
 **How does Bitsy's technical constraint of 8x8 pixel art and limited colour palettes affect narrative possibilities and expression? In particular, how have these been used to elicit emotional response to themes around memory and grief?**
 
-A: 
+A: The first key thing is that, like most stories, repetition can only go so far until it becomes boring, and while each story is unique to itself, words can only get you so far and images with the same pixilated quality and colouring start to blur together and become less distinguishing. Narrative-wise wise these stories stand apart, but even just from looking at these two, I can see that creating emotionally tying stories can make works repetitive. But again repetitive doesn't have to be bad, for such things like memory and grief, it is those sorts of elements which can make a work more effective as similarity can be attributed to familiarity. 
 
 
 **In what ways do spatial navigation and environmental storytelling function differently in Bitsy games compared to other e-lit forms? What does this ask of the reader/player?**
 
-A: 
+A: While Bitsy is a unique medium, it does share some key features with other e-lit forms, such as hypertext fiction and interactive fiction (IF). However, due to its low-fi, pixel-based design and simplified interface, they require a different mode of interaction compared to other E lit forms and require players to engage with the story in other ways. The Spatial navigation of Bitsy is once again unique. Spatial navigation, in simple terms, is the player's ability to move in a space and for Bitzy, it is often a controlled environment and usually uses a grid-like structure, meaning players can only move in certain directions rather than wherever they want to go.
 
 **How can we make use various game features (e.g., character interactions triggering text, having scenes “loop” differently with each subsequent play) to make a game “literary”, with a compelling emotional timbre?**
 
-A: 
+A: I think it is completely plausible to make the game literary. Connection and interaction will be able to do this, so using various game features like character interaction or transitional elements can make a piece more symbolically relevant and more aesthetically appealing for readers. I think as well that the emotional points are key to making something literary. For most books it is the coonections we form with it which make it last as long as it does.
 
 
-We will play with the online Bitsy Game Maker, drawing upon our new games resources page. You can follow Jenny's recorded Bitsy tutorial for the basics of editing a Bitsy game and publishing through GitHub pages.
+Bitsy game example I tried to make: file:///Users/isabellatattersall/Downloads/dog_and_man-3.html
 
-Jenny has also recorded a quick video tutorial that will take you through the through the instructions for Inform 7.
-
-Since Assessment Two is coming up, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far.
 
 ### **Assessment 2 details: **
 
 **Prototype link**: 
 
-Prototype examples/what I am currently worknig with:
+Prototype examples/what I am currently working with:
 
 <img width="1468" alt="Screen Shot 2025-06-06 at 5 59 39 pm" src="https://github.com/user-attachments/assets/73808b9b-e519-40ed-aa45-0765f8db1a1d" />
 
 Electronic Literature (e-lit)
 
-This work draws directly from electronic literature theory, particularly the ideas of N. Katherine Hayles, who argues that in digital environments, "text becomes dynamic, procedural, and performative."
-Twine supports this by making the story non-linear and procedural, where the player must perform their identity through interaction.
+I feel my work has a strong connection to electronic literature theory, particularly the ideas of N. Katherine Hayles, who argues that in digital environments, "text becomes dynamic, procedural, and performative." I would like to think that my work is as much a performance as it is a visual journey from a world of virtual reality made to feel like the real world. 
+
+Twine is great at helping to do this by making the story non-linear, where the player must work their way through and attempt to find the best ending.
 
 Hypertext & Post-Structuralism
 
-Inspired by theorists like Roland Barthes and Espen Aarseth, this story treats narrative as non-hierarchical, rejecting a single “true” path. Barthes’ idea of the writerly text — where the reader constructs meaning — is central here. The player’s path defines the character’s memory, personality, and fate.
+Inspired by theorists like Roland Barthes and Espen Aarseth, my story treats the narrative as non-hierarchical; it rejects a single “true” path, which is an important characteristic because AI is all about multiple pathways that use a single algorithm. Barthes’ concept of the writerly text — where the reader constructs meaning — is central to my own story, which is not only about the characters' journey but the players' journey to understanding a world that incorporates themes like climate change.
 
-Concept & Creative Goal (1 minute)
-In this story, the player wakes up in a world that feels familiar — like a sleek game or VR social space — but something is off.
-
+Concept & Creative Goal 
+In this story, the player believes they are running in a forest when, in actuality, they are stuck in a VR meant to look like it, and something is looking for them. 
 There's no memory of logging in, no menu, no logout button.
-The NPCs (non-player characters) seem too self-aware. Some want to help. Others warn you to forget escape.
-The more the player explores, the more the story glitches — passages loop, choices contradict themselves, and even the AI guide begins to question reality.
-My goal is to use Twine’s interactive form to mimic the feeling of being trapped — not through action sequences, but through narrative dissonance and limited control.
+No NPCs (non-player characters) but a creature that seems scarily sentient.
+The more you continue the more information you get about what is going on and who will succeed. t
+I want to create a feeling of being stuck in a game but not through action sequences, but through narrative dissonance and limited control.
 
-3. Draft Creative Work / Prototype Demo (1.5–2 minutes)
-[Show your Twine prototype or screenshots of passages.]
+3. Draft Creative Work / Prototype Demo 
 
 Here’s a quick look at the prototype:
 
-The first passage greets the player with a system message:
-"Welcome back, USER. Loading your consciousness..."
-The user is given three choices:
-“Try to remember how you got here”
-“Speak to the nearest avatar”
-“Find the exit”
-Each leads to different realities:
+The first passage jumps right in and feels like the player has truly just woken up in a forest. Each choice after that will have a sequence of choices to pick from, which will then utilise hypertext to move the story along. One key thing I want to add in there is a continue button, which is required to be pressed in order to get a certain ending.
+Some choices loop back to the beginning. 
+There are over 18 passages, with two main endings:
+Escape, killed, planet restored. 
 
-Some choices loop back to the beginning, but with small differences — new text, corrupted messages, or system anomalies.
-There are over 25 passages, with three main endings:
-Escape — if the player accepts they are a simulation.
-Assimilation — the character gives in and becomes part of the system.
-Reboot — the loop resets but the player remembers, implying endless repetition.
-I’ve used Twine’s variables to track memory fragments (like $memoryCount) and change what information appears over time, creating a psychological breadcrumb trail.
 
-4. Planning & Development Process (1–1.5 minutes)
+4. Planning & Development Process 
+
 Stage 1: Concept and Writing
 
 Developed a branching story based on 3 core ideas:
 Loss of identity in virtual spaces
-Looped time / recursion
-Digital emotion vs real-world memory
+Looped time which is faster than the outside world
+death in the real world vs death in the virtual one
+
 Stage 2: Twine Structure
 
-Used SugarCube for its robust variable tracking.
-Added conditions like:
-<<if $memoryCount >= 3>> to unlock new dialogue.
-<<goto>> and <<display>> to create “glitch loops.”
+Used Harlow for the best format.
+
 Stage 3: Testing & Feedback
 
-I did early playtests with peers. Feedback included:
-Add more “visible” consequences to player choices.
-So I added more divergent endings and meta-messages where the story talks to the player — as if it knows they’re reading it.
-5. Market Research & Creative Relevance (1 minute)
-There’s growing interest in stories about being stuck in digital spaces, especially since AI, VR, and simulation theory have entered popular culture.
+Add more “visible” consequences to player choices. Hence the multi-ending.
 
-Think Black Mirror, The Matrix, or SOMA. But those are mostly passive — films or games.
-Twine gives players agency — not just what happens, but how it feels.
+5. Market Research & Creative Relevance
+
+I have already touched on this but Twine doesn't have any fees attached to it, I did go into a bit more depth on a previous week on Padlet about what going professional would look like and fees were attached. 
+
+I did want to do AI, however, because there is a lot of it being mentioned currently, Black Mirror, as well ad the past icons The Matrix, or SOMA, and I wanted to put my own spin on it
+
 This project appeals to:
 
-Interactive fiction fans on platforms like Itch.io
-Digital storytelling educators
-Young adults exploring identity and mental health in online spaces
+Young adults exploring identity and mental health in online spaces, while it is based around AI, it can also be a symbolic reference to those stuck in the digital world who feel like thier life revolves around their phone.
 There’s also educational potential — it raises critical questions about AI, consent, memory, and control.
 
-6. Budget & Expansion Plans (30–45 seconds)
-Right now, the project is built solo and free using Twine, but future development could include:
+I’m excited to keep refining it and would love your feedback!
 
-$500–$800 budget for:
-Custom glitch soundscapes or audio feedback
-Minimalist art/UI overlays
-Expanded writing + professional editing
-Timeline to Completion:
+**Things to do over break:**
 
-June: Final branching edits
-July: Playtesting round 2
-August: Release on Itch.io and submit to interactive fiction festivals
-7. Closing Statement / Call to Action (30 seconds)
-"System Error: You Are Still Logged In" is a story where the player is both the explorer and the prisoner. It uses Twine to mirror the unsettling nature of being stuck — not physically, but psychologically, in a reality that no longer makes sense.
-This project pushes narrative design beyond just choice — into the territory of identity, immersion, and unreality.
-
-I’m excited to keep refining it and would love your feedback, ideas, or collaboration. Thank you!
+Clean up codes - make sure images are in place and all the codes I have put in are working correctly.
 
 
 
-Today's class will be a working session. I would really like to see everyone's concept/story mapping so far (see week 5 activity) and plans toward Ass 2, including an achievable list of things to do over the break. Jenny and I won't be available for trouble shooting as we will be on leave so it's important you plan out what you need to do and contingencies for what you will present.
-
-Here is a feedback form that we would really appreciate you filling out. You can tell us how you are going and anything specific you need to realise your goals and ideas in the second part of semester.
 
 #### Readings
 
@@ -186,4 +161,4 @@ Discuss music coding here.
 
 Assessment 1 Feedback 
 
-I receieved good feedback for this assignment, 
+I received good feedback for this assignment, visuals were good and relevant, the feedback I did receive was to word some things better and to include a slide which directly links the case study to your practice.
