@@ -1,29 +1,16 @@
 
 #### Practical assignment 1 completed - 
 
-Looked at the Scroll animation for the speech and investigated whether or not I wanted to include it in my own work.
-Looked at the Vine and the fish.
+Looked at the Scroll animation for the speech and investigated whether or not I wanted to include it in my work.
+Looked at the Vine and the Fish.
 
-#### Background info: 
+#### Background info on the Vine and the Fish: 
 For some background context, Hook is a cartoonist and illustrator based in Stockholm, Sweden. Her work has appeared in The Believer, The New Yorker. Typically, Hook’s work seeks to represent emotional strains of everyday problems in the form of literary stories formatted as comic strips, like the Nest and Beijing bike. There is a reserved quality to her work that provides an interesting contrast to its inherent emotional content, which flows onto the colour palette. The vine and the fish is no different, but instead of the classic comic, it utilises a limited-animation down-scrolling comic that compares the "invasive species" like the kudzu vine and the Asian carp to xenophobia and generalised anti-immigration sentiment that was fanned during the Trump administration.
 
 #### Problems with Scroll animation: 
 This type of animation is linked to the scroll position of a scroll container. This means that when you scroll up or down, the linked animation scrubs forward or backward in direct response, thus moving between images and text. One of the issues I found in Hooks' work and a problem across most creators using this form of animation is linking the images and text with the scroll motion. I found it rather easy to miss images and text if I were to scroll too fast. I also found that the inclusion of images and sound created extra 'noise.' So, instead of just focusing on the message of the story, the animation was what had the most impact.
 
-![Page-1-Panel-5](https://github.com/user-attachments/assets/8c75d68c-e0d9-43e8-acb4-b0b78897cdeb)
-
-
-<img width="523" alt="Screen Shot 2025-05-13 at 10 02 54 am" src="https://github.com/user-attachments/assets/6eb3dc1b-a310-4307-a98e-f7a1c340aca1" />
-
-At the moment, I'm trying to create a GitHub website, as doing such a thing will allow me to create the scroll animation effect. I'm using Visual Studio Code, but I am having problems with the website.
-
-<img width="735" alt="Screen Shot 2025-05-13 at 10 20 22 am" src="https://github.com/user-attachments/assets/ca9da766-2385-46cf-b58d-cab62a98b864" />
-
-As each time I put it in, this comes up:
-
-<img width="813" alt="Screen Shot 2025-05-13 at 10 22 26 am" src="https://github.com/user-attachments/assets/be7de964-2e1c-4647-ac98-6e1bf3825e05" />
-
-I'm going to leave this for now and come back to it later, once I have a more concrete idea of what I want to do.
+talk about coding to use for scroll animation
 
 ### Twine
 I haven't had any issues with deploying the coding playground, however, I made a note to utilise Vercel in case of any issues.
