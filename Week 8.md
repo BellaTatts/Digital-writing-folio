@@ -39,3 +39,37 @@ how many screens?
 what do you need to do on a week-by-week basis (is this realistic?)
 what is the tech that might get you stuck? what is the workaround/Plan B?
 what else might be an obstacle? flag it early with Jenny and Lucinda
+
+
+Prototype 2: 
+
+
+Was trying to add an image over the top of my background 
+
+Tried this first 
+
+<img src= "https://img.freepik.com/premium-vector/cute-vector-illustration-bunny-children-book_925324-13443.jpg?semt=ais_hybrid&w=740">
+
+But the whole entire image came up which isn’t what I wanted.
+
+
+Tried to change the background for just one page to rabbit 
+Tried this first
+
+tw-story[tags~="Rabbit"] {
+ background-image:url("https://i.pinimg.com/originals/58/b4/6c/58b46c4023b9a4497df9b9a7f9b29b67.gif");
+ background-size:cover;
+}
+
+file:///Users/isabellatattersall/Downloads/Rabbit%20(16).html 
+
+Didn’t work
+
+To fix it I then went to the style sheet and added a new code sequence 
+
+tw-story[tags~="Rabbit"] {
+ background-image:url("https://i.pinimg.com/originals/58/b4/6c/58b46c4023b9a4497df9b9a7f9b29b67.gif");
+ background-size:cover;
+}
+
+That worked!
