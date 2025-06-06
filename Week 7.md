@@ -83,6 +83,11 @@ Ultimately, gggag and i made this. you play this. we are enemies was made to con
 Nelson, J. (2021). Poetic Playlands: Poetry, Interface, and Video Game Engines. In J. O’Sullivan (Authors), Electronic Literature as Digital Humanities: Contexts, Forms, & Practices (pp. 335–350). New York,: Bloomsbury Academic. Retrieved June 2, 2025, from http://dx.doi.org/10.5040/9781501363474.ch-030![image](https://github.com/user-attachments/assets/d3112506-2a48-4e21-8992-9a2d8458e0d8)
 
 
+References
+Astrid Ensslin. (2014). _The Paradox of Poetic Gaming: evidence of everything exploding. In Astrid Ensslin, Literary Gaming_ (pp. 123-). The MIT Press.
+
+Nelson, J. (2021). _Poetic Playlands: Poetry, Interface, and Video Game Engines._ In James O’Sullivan (Ed.), Electronic Literature as Digital Humanities (pp. 335–350). Bloomsbury Publishing. https://doi.org/10.5040/9781501363474.ch-030
+
 Discuss music coding here.
 
 
