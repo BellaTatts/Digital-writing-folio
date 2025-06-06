@@ -1,39 +1,33 @@
-Proposal start
+### Information on story so far:
 
 From past weeks, I was leaning toward scroll animation, but have decided to instead use Twine as the coding medium for my story. 
 
-Discuss what I thought I was doing (poem) and what I'm now doing, which is an AI story.
-Discuss the use of chapbook - pros and cons and issues with coding, vs Harlow.
-
 ALL PROTOTYPES ARE LINKED IN THE PROTOTYPES FILE AT THE TOP OF THIS FOLIO!
 
-Ok so I am using Chapbook, which utilises different coding from others like Harlow or icecube. 
+Ok, so I am using Chapbook, which utilises different coding from others like Harlow or IceCube. 
 
-First I created the passages - I started with four and worked out how to link them. 
+First, I created the passages - I started with four and worked out how to link them. 
 
 <img width="435" alt="Screen Shot 2025-05-13 at 12 43 36 pm" src="https://github.com/user-attachments/assets/44abf1fb-dd02-4d79-904a-96fc58a9fb77" />
 
-So the coding for this part turned out pretty simple - as an example -  [[continue]] would allow the sotry to progress
-[[Back]] would go back a page - if I wanted to go to particular page I could use [[continue->fleeing]]. 
+So the coding for this part turned out pretty simple - as an example,  [[continue]] would allow the story to progress
+[[Back]] would go back a page - if I wanted to go to the particular page, I could use [[continue->fleeing]]. 
 
 <img width="273" alt="image" src="https://github.com/user-attachments/assets/aeae5290-0daa-4754-a253-c1263e9c8638" />
 
-
-After that I then attempeted to embed an image with the code, but each time I'd press play this would come up:
+After that, I then attempted to embed an image with the code, but each time I'd press play, this would come up:
 
 <img width="767" alt="Screen Shot 2025-05-13 at 12 48 38 pm" src="https://github.com/user-attachments/assets/09c667f9-6845-45c0-bddb-8105cf2961a7" />
 
 {embed image: "https://img.freepik.com/premium-photo/nature-technology-harmony-generative-by-ai_893571-8408"}
 
-Now the issue i realised was that in order for the coding to recongnise what i was trying to do it needed to be a J-peg or Png. 
-so instead I altered it to adhere to those rules: 
+Now, the issue I realised was that for the coding to recognise what I was trying to do, it needed to be a JPEG or PNG. 
+So instead, I altered it to adhere to those rules: 
 
 {embed image: "https://img.freepik.com/premium-photo/nature-technology-harmony-generative-by-ai_893571-8408.jpeg"}
 
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/51de17ea-81fa-464b-9bee-3119dc0b9bf3" />
 
-
-include issues + failures + successes
 
 ### Miro image map
 
@@ -47,21 +41,67 @@ https://miro.com/app/board/uXjVI2_zWUk=/?share_link_id=12724440297
 
 I did have a look at the students' work from past classes and have broken each of them into three parts to answer the questions:
 
-House on a hill
+House on a hill: 
+I particularly enjoyed the mechanics, which used the space bar as the way to continue the story; the music was also a nice touch, which gave the whole piece an eerie feeling. The real beauty of the work, however, was the interactive gaming element which used the arrows as ways of not only moving around the room but stamping points to where you should go next. Such coding needed to complete this would have had to use javascript as well as sugarcube, I linked down below the type of coding I have been told would be used: 
+
+$(document).on('keydown', function(event) {
+    if (event.key === "ArrowUp") {
+        // Player presses the up arrow
+        State.variables.playerDirection = "up";
+        // Trigger a passage change based on the direction
+        Story.show("UpDirection");
+    } else if (event.key === "ArrowDown") {
+        // Player presses the down arrow
+        State.variables.playerDirection = "down";
+        Story.show("DownDirection");
+    } else if (event.key === "ArrowLeft") {
+        // Player presses the left arrow
+        State.variables.playerDirection = "left";
+        Story.show("LeftDirection");
+    } else if (event.key === "ArrowRight") {
+        // Player presses the right arrow
+        State.variables.playerDirection = "right";
+        Story.show("RightDirection");
+    }
+});
+
+Again, I don't know if this would work or if it is right, but at least I have a visual of what she did in order to make her work.
+
+One issue I found in Shade was how much of a guessing game it was to work out which word to type in which order. With House on a Hill, we know what to do, and yet there is still an element of mystery and intrigue that keeps us reading. I think the colour palette was smart as well, commonly sharper colours on games - icy blues or purples hold well in horror games, they can also show the emotional distress of characters without actually having to say anything. While the graphics are simple, the third-person view is something we commonly see in old pixelated video games and, more recently Resident Evil. It gives the feeling of truth whilst still sticking to that story element - it's like watching a show and having ultimate control over the characters, we know it's not us, but we feel responsible for the characters. 
 
 Snow Season 
-Poetically and structurally, I found the work incredibly appealing, I enjoyed the use of hypertext and image transitions throughout the piece. I think that while the interactive elements were small, it was the visual components that helped to include the viewer in the story.
+Poetically and structurally, I found the work incredibly appealing, I enjoyed the use of hypertext and image transitions throughout the piece. I think that while the interactive elements were small, it was the visual components that helped to include the viewer in the story. More so, the language in its formation - it wraps around the page - felt like the precipitation cycle, and since we are looking at snow, it made even more sense and was a nice sort of easter egg. 
 
 Stay Strong
+I liked how it was broken up into phases; not only does this show the emotional impact on both writer and reader, but adds context and trajectory for the story, ie beginning, middle, and end. The use of hypertext to show the difference between those speaking and personal thought was a nice touch, which helps to relate back to the overall point of the piece. I also liked the click features, which made us even more active participants in the story. The first page was also a nice add-on as it made the work more real and less story. While this is an interactive piece, it isn't a game like House on a Hill, as ther is only one ending, it feels like journal entries rather than just a story.
 
 
 
-How does it work? What does it do? How does the reader interact with the piece? What is conveyed by the digital work?
-How does the digital affordance work with the piece’s themes? Does its function deepen the meaning and interpretation of the themes for you as a reader?
-Think about: the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used.
-How does this work make you reflect on your own ideas and what you might do for your own piece? Requirement for final folio write 250 to 300 (minimum) words on this (can be done any time this week)
-See the slide deck on Canvas modules Jenny's Final Project
-Read the contextual statements and consider how the form and function of each aspect of this piece feeds into the themes of the work.
+**How does this work make you reflect on your own ideas and what you might do for your own piece?** 
+
+The main thing I took away from looking at these pieces was the importance of both narrative design and interactive elements. Since I want my story to use poetic prose I have to consider emotional points much more closely, to make sure there is continual engagement in the story as well as clear structural points that emphasises clarity and agency. It also made me more aware of what sort of story I wanted to tell and how – in regards to whether I wanted it more game or more story, below I have type out exactly what I want to include in my own work.
+
+
+•  **Clear Choices:** Players should be able to have a good understanding of the work and the actions needed to complete the story. I will use clear visual and worded codes to compute this, like image changes or interactive elements.
+
+•  **Immersive Atmosphere:** Have a strong emotional backdrop through color choices, use of music, and minimalistic or rather consistent graphics. Consider using contrast ie talk about forest while on a backdrop of an AI image.
+
+•  **Innovative Structure:** Utilise hypertext and other interactive coding points like a drop down window, to make the structure feel dynamic. Have the text change, move, or transform based on what the player chooses to do.
+
+•  **Interactivity and Agency:** Make it so the player to feel like they have control over the direction of the story, but have a twist with a multi ending. 
+
+
+
+
+
+
+Jenny's Final Project: http://cordite.org.au/poetry/game/a-compendium-of-failed-relationships/
+
+
+Read the contextual statements and consider how the form and function of each aspect of this piece feed into the themes of the work:
+
+A: 
+Each piece, while vastly different in style, all look at the same issue, which is abusive relationships in their many different forms. Whilst saddening, it is a reflective piece which, while interactive, doesn't feel like a game but rather journal entries to the emotional impact of abusive relationships. 
 
 
 
@@ -82,7 +122,7 @@ Below is a simple graph which highlights the diegesis in its simplest form and t
 
 Whilst there are considered to be many version of IF worlds - in the sense that they cannot all fall under one banner - I believe that is because of the sheer breadth of If stories out there as well as the need to refuse binary terms that could make it a definite term that could be compared to something else.
 
-Player characters and non player characters: The use of games as a way to create interactive fiction is most likely more well known then such things like twine and the general practise of electronic literature. For most interactive games allow for choice and decision making, but more than that they allow for character growth and connection that just a simple coded step by step game doesn’t allow. In simple terms it creates player agency and much like other interactive fiction brings a sense on ownership to the work/game. When we consider authorship once more games are different from interactive written fiction however both form a bond between the participants action and the resulting outcome. While NPC's are both sperate and a part of the PC, the IF world is reliant on the actions of the PC to create a ripple effect and thus charter the actions of the NPC. The quarry a game made in 2022, does this quite well. There are at least six playable characters in the story whose actions can create certain responses from the surrounding NPCS, whether that’s a positive or negative one. For this story the quarry requires emotional choices made by the player to create minute changes in responses from the NPC, while this might not be considered important in the long run - doesn’t really alter the different endings of the games, it is reflective of human nature and how one ending might have been considerably better if other emotional choices had been made.
+Player characters and non-player characters: The use of games as a way to create interactive fiction is most likely more well known then such things like twine and the general practice of electronic literature. For most interactive games allow for choice and decision making, but more than that they allow for character growth and connection that just a simple coded step by step game doesn’t allow. In simple terms it creates player agency and much like other interactive fiction brings a sense on ownership to the work/game. When we consider authorship, once more games are different from interactive written fiction however both form a bond between the participants action and the resulting outcome. While NPC's are both sperate and a part of the PC, the IF world is reliant on the actions of the PC to create a ripple effect and thus charter the actions of the NPC. The quarry a game made in 2022, does this quite well. There are at least six playable characters in the story whose actions can create certain responses from the surrounding NPCS, whether that’s a positive or negative one. For this story the quarry requires emotional choices made by the player to create minute changes in responses from the NPC, while this might not be considered important in the long run - doesn’t really alter the different endings of the games, it is reflective of human nature and how one ending might have been considerably better if other emotional choices had been made.
 
 
 **The two riddles:** Poetry and computerisation have been held in long standing of one another. But the true ancestor of interactive fiction would have to be the riddle or so they say. I found this chapter particularly enlightening as I'd never thought to consider riddles as a truly interactive piece.
