@@ -190,89 +190,16 @@ A:
 
 **Notes:** This is just a tool to process thoughts and not really a way for me to clean plan out my story.
 
+**Toward Assessment 2:** 
 
-
-### **Toward Assessment 2**
-
-Proposal discussion and reflections in folio:
-
-My proposal will look at the premise of the idea is a look at AI in a setting where humankind has eradicated all-natural life and now lives in the world of VR. The story adheres to certain elements which make it a choose-your-own story, the reader can make certain decisions to get a certain ending. The story is also split to be read as two separate readings, with one story having a more preferable ending than the other, at least for the character. One thing that links both of them is the rabbit, which is both a literal entity in the story and the title of my work. The rabbit is meant to symbolise both the AI world, its memory is trapped in and the physical world where its body is buried. 
-
-At the moment I am considering the type of read I wish this to be and have broken it up into 4 prototype ideas with the final choice to be given closer to the date of the assignment.
-
-**Types of Prototypes I am considering:** 
-
-**Prototype 1:** Interactive Fiction Story
-
-**Description:**
-
-This will be a branching narrative where the user is just a reader. Each choice - I am considering making these choices through hypertext - can influence the story’s overall direction and ending.
-
-**Common Issues & Troubleshooting:**
-
-**Broken Links (Red Passage Links) - or nowhere links.**
-Issue: When you go to move to another passage and it leads nowhere.
-Cause: The most common problem is when the passage it is meant to link to does not exist or has a typo.
-Fix: Double-check spelling as the passage link will not work if the wording does not match up; the best way to get around this is to include capitalisation in your passage names. Using the “Passage Map” feature in Twine is a great way to spot unconnected nodes.
-
-**Unclear Story Flow**
-Issue: Readers get stuck moving between different passages, and they lose track of the plot.
-Fix: Include clear 'continue' bars and 'back' bars to make sure you can control story flow. Adding a clear message to allow readers to know if a particular variable that was hidden has been found, or, for me, a certain ending has been reached, to guide them back to the main plot.
-
-**Debugging Variables**
-Issue: certain coding isn't working (e.g., the coding says an image is meant to be on the page, but instead, nothing can be seen).
-Fix: Consistently test your work ie, (Story > Test Play). Also double double-checking your index and stylesheet as well as your general passage where your on-page codes are to make sure they have been put in correctly.
-
-
-Prototype 2: Dialogue-Based RPG Mini Game
-
-Description:
-
-The player interacts with different characters within the story, building relationships based on conversation choices.
-
-**Common Issues & Troubleshooting:**
-
-Branch Overload
-Issue: multiple points of dialogue mean I can lose just who is talking, as well as lose the voice of the characters.
-Fix: Modularise conversations. Make it so that the individual characters have their own passages - I would even go as far as giving them their own link of passages. Use conditionals (<<friendshipLevel is 2>>) to manage dynamic responses instead of duplicating content. Each Level could also be colour-based to keep it succinct. 
-
-Relationship Variables Not Saving
-Issue: Choices don’t impact relationships.
-Fix: Use consistent variable names. Track changes carefully and test using Twine’s variable viewer or by outputting values on screen.
-
-Player Choices Looping Incorrectly
-Issue: options keep repeating.
-Fix: Use flags to mark visited options or use a checklsit on the side - a menue option maybe or just a message in the passage (interesting you have chosen thus far to talk to fred, free the AI bot etc) to let players know all the steps and options they have taken. I can even hide options if need be.
-
-**Prototype 4:** Mental Health Self-Help Interactive Tool - ie. the AI is a symbolic representation of the character's health
-
-**Description:**
-
-A reflective experience where the reader has to try and write the correct words - a bit like shade - to better the mood of the character and get out of the virtual slump. 
-
-**Common Issues & Troubleshooting:**
-
-wording issues
-Issue: The wording is too difficult for people to guess.
-Fix: maybe including the words in the passage above as an explanation, or making it clear at least the sort of things they will need to do.
-
-Wording issues part 2
-Issue: Users get stuck 
-Fix: Add a home button to restart, or maybe a clue section if they get stuck.
-Privacy Concerns with Input
-Issue: If users type responses, how is that data handled?
-Fix: Clearly state that no data is stored (unless the tool is published online with backend storage). Avoid sensitive prompts if unsure about data privacy.
+Padlet Link with attached Information: https://padlet.com/s3953722/assignment-2-ideas-5uflapzmzxmmoh5c 
 
 
 
-What is emerging for you in terms of your own piece toward Assessment 2 and 3:
 
-I have decided to use twine instead of scroll animation.
 
-What platform and technology does it require?
 
-Do you know already if you can make it?
 
-What else do you need to learn in order to execute your vision for this piece?
 
-map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.
+
+
