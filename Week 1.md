@@ -157,9 +157,14 @@ Is the concept of 'death of the author' more metaphorical - I understand its not
 
 **Quote:** The text and the book are reconnected with their author and her or his intentions, yet these intentions are no longer seen as fully determining the meaning of a text, nor its reception. In this vision, authorship is fragmented, dispersed, and plays a more contingent role.
 
+Reference list
 
+Berens, K. I. (2020)._ Decolonize’ E-Literature? On Weeding the E-Lit Garden._ Emergent digital literary network. 
+https://doi.org/10.7273/SVQQ-AB68
 
+Hayles, N. K. (2007). _Electronic Literature: What Is It?_ The Electronic Literature Organization. https://eliterature.org/pad/elp.html
 
+Rosario, G. di. (2021). _The Origins of Electronic Literature: An Overview._ Bloomsbury Publishing. https://doi.org/10.5040/9781501363474.ch-001
 
-
+Adema, J. (2021). _From Romantic to Posthumanist Authorship._ In Living Books,4 MIT Press. https://direct.mit.edu/books/oa-monograph/5179/chapter-standard/3409719/From-Romantic-to-Posthumanist-Authorship
 
