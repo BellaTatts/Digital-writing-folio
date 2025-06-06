@@ -179,15 +179,16 @@ A: Like the question above, I believe it is plausible to argue that it can be bo
 Clifton M. (2021). _Hypertext fiction: The Literary Genre that was theorized before it was written._ Berkeley Fiction Review. 
 https://berkeleyfictionreview.org/2021/08/02/hypertext-fiction-the-literary-genre-that-was-theorized-before-it-was-written/
 
-**Tools to plan out my work/ what works, what doesn't**
-A:
-Miro: I have had a lot of success with Miro, the tool itself allows me to integrate both visuals and the beginnings of ideas. I have just set up a new page and will start to plan out my idea for my final assignment.
+### **Tools to plan out my work/ what works, what doesn't**
+A: 
 
-Padlet: I have used Padlet before, and while I like the function and accessibility of it, I find the system finicky and not as clean as Miro. 
+**Miro:** I have had a lot of success with Miro, the tool itself allows me to integrate both visuals and the beginnings of ideas. I have just set up a new page and will start to plan out my idea for my final assignment.
 
-Scrivener: I didn't mind the setup for this as it was a lot more clean cut and easier to use, however moving and planning what I wanted was harder and not as easy, I think in future if I wanted to plan out anoything i would need a tool which encomapsed both accesibilty and more interactivty.
+**Padlet:** I have used Padlet before, and while I like the function and accessibility of it, I find the system finicky and not as clean as Miro. 
 
-Notes: This is just a tool to process thoughts and not really a way for me to clean plan out my story.
+**Scrivener:** I didn't mind the setup for this as it was a lot more clean cut and easier to use, however moving and planning what I wanted was harder and not as easy, I think in future if I wanted to plan out anoything i would need a tool which encomapsed both accesibilty and more interactivty.
+
+**Notes:** This is just a tool to process thoughts and not really a way for me to clean plan out my story.
 
 
 
@@ -195,78 +196,69 @@ Notes: This is just a tool to process thoughts and not really a way for me to cl
 
 Proposal discussion and reflections in folio:
 
-The ma
+My proposal will look at the premise of the idea is a look at AI in a setting where humankind has eradicated all-natural life and now lives in the world of VR. The story adheres to certain elements which make it a choose-your-own story, the reader can make certain decisions to get a certain ending. The story is also split to be read as two separate readings, with one story having a more preferable ending than the other, at least for the character. One thing that links both of them is the rabbit, which is both a literal entity in the story and the title of my work. The rabbit is meant to symbolise both the AI world, its memory is trapped in and the physical world where its body is buried. 
 
-Types of Prototypes I am considering: 
+At the moment I am considering the type of read I wish this to be and have broken it up into 4 prototype ideas with the final choice to be given closer to the date of the assignment.
+
+**Types of Prototypes I am considering:** 
 
 **Prototype 1:** Interactive Fiction Story
 
 **Description:**
 
-A branching narrative where the user plays as a detective solving a mystery. Each choice influences the story’s direction and ending.
+This will be a branching narrative where the user is just a reader. Each choice - I am considering making these choices through hypertext - can influence the story’s overall direction and ending.
 
 **Common Issues & Troubleshooting:**
 
-Broken Links (Red Passage Links)
-Issue: When you click a link and it leads nowhere.
-Cause: The passage it links to does not exist or has a typo.
-Fix: Double-check spelling and capitalization of passage names. Use Twine’s “Passage Map” view to spot unconnected nodes.
-Unclear Story Flow
-Issue: Readers lose track of the plot or get confused by too many branches.
-Fix: Use variables to control story flow. Add a variable like $clueFound and set it when the player discovers key evidence, guiding them back to the main plot.
-Debugging Variables
-Issue: Conditions don’t work as expected (e.g., the story says you found the clue when you didn’t).
-Fix: Use the built-in debug mode (Story > Test Play) and the browser console to print variable values using <<print $clueFound>>.
+**Broken Links (Red Passage Links) - or nowhere links.**
+Issue: When you go to move to another passage and it leads nowhere.
+Cause: The most common problem is when the passage it is meant to link to does not exist or has a typo.
+Fix: Double-check spelling as the passage link will not work if the wording does not match up; the best way to get around this is to include capitalisation in your passage names. Using the “Passage Map” feature in Twine is a great way to spot unconnected nodes.
 
-**Prototype 2:** Educational Quiz Game
+**Unclear Story Flow**
+Issue: Readers get stuck moving between different passages, and they lose track of the plot.
+Fix: Include clear 'continue' bars and 'back' bars to make sure you can control story flow. Adding a clear message to allow readers to know if a particular variable that was hidden has been found, or, for me, a certain ending has been reached, to guide them back to the main plot.
 
-**Description:**
+**Debugging Variables**
+Issue: certain coding isn't working (e.g., the coding says an image is meant to be on the page, but instead, nothing can be seen).
+Fix: Consistently test your work ie, (Story > Test Play). Also double double-checking your index and stylesheet as well as your general passage where your on-page codes are to make sure they have been put in correctly.
 
-A multiple-choice quiz where players receive immediate feedback and scores at the end.
 
-**Common Issues & Troubleshooting:**
+Prototype 2: Dialogue-Based RPG Mini Game
 
-Score Not Updating
-Issue: The $score variable doesn’t increment.
-Cause: Incorrect syntax (e.g., set $score =+ 1 instead of +=).
-Fix: Use correct Harlowe or SugarCube syntax (e.g., <<set $score += 1>> for SugarCube). Always check documentation for syntax.
-Answer Feedback Display Problems
-Issue: Clicking an answer doesn’t show whether it’s right or wrong.
-Fix: Use <<if>> statements to conditionally show feedback, and test each path. Consider showing feedback on the same passage to reduce errors from navigation.
-Persistent Scores Between Tries
-Issue: When replaying, old scores persist.
-Fix: Reset variables at the start of the story (<<set $score to 0>>). Consider adding a "Reset Quiz" button that reloads the game.
-Prototype 3: Dialogue-Based RPG Mini Game
 Description:
 
-The player interacts with different characters, building relationships based on conversation choices.
+The player interacts with different characters within the story, building relationships based on conversation choices.
 
 **Common Issues & Troubleshooting:**
 
 Branch Overload
-Issue: Complex dialogue trees are hard to manage.
-Fix: Modularize conversations. Keep each major dialogue in its own passage or passage cluster. Use conditionals (<<if $friendshipLevel is 2>>) to manage dynamic responses instead of duplicating content.
+Issue: multiple points of dialogue mean I can lose just who is talking, as well as lose the voice of the characters.
+Fix: Modularise conversations. Make it so that the individual characters have their own passages - I would even go as far as giving them their own link of passages. Use conditionals (<<friendshipLevel is 2>>) to manage dynamic responses instead of duplicating content. Each Level could also be colour-based to keep it succinct. 
+
 Relationship Variables Not Saving
 Issue: Choices don’t impact relationships.
-Fix: Use clear and consistent variable names ($alexTrust, $sarahMood). Track changes carefully and test using Twine’s variable viewer or by outputting values on screen (<<print $alexTrust>>).
-Player Choices Looping Incorrectly
-Issue: Repetitive options keep reappearing.
-Fix: Use flags to mark visited options (<<set $talkedToAlex to true>>) and use <<if not $talkedToAlex>> to hide options after they're used.
+Fix: Use consistent variable names. Track changes carefully and test using Twine’s variable viewer or by outputting values on screen.
 
-**Prototype 4:** Mental Health Self-Help Interactive Tool
+Player Choices Looping Incorrectly
+Issue: options keep repeating.
+Fix: Use flags to mark visited options or use a checklsit on the side - a menue option maybe or just a message in the passage (interesting you have chosen thus far to talk to fred, free the AI bot etc) to let players know all the steps and options they have taken. I can even hide options if need be.
+
+**Prototype 4:** Mental Health Self-Help Interactive Tool - ie. the AI is a symbolic representation of the character's health
 
 **Description:**
 
-A reflective journaling experience where users select prompts and receive affirmations and coping strategies based on their mood.
+A reflective experience where the reader has to try and write the correct words - a bit like shade - to better the mood of the character and get out of the virtual slump. 
 
 **Common Issues & Troubleshooting:**
 
-Tone Mismatch or Repetitiveness
-Issue: Reused affirmations or responses feel robotic or inappropriate.
-Fix: Create multiple variations of supportive messages and randomize them using arrays (in SugarCube: <<set _affirmations = ["You're doing great.", "Take a deep breath.", "This moment will pass."]>> <<print _affirmations.random()>>).
-Navigation Confusion
-Issue: Users get lost in the interface.
-Fix: Add a home button or a persistent sidebar with clear links back to main areas. Use consistent UI/UX patterns.
+wording issues
+Issue: The wording is too difficult for people to guess.
+Fix: maybe including the words in the passage above as an explanation, or making it clear at least the sort of things they will need to do.
+
+Wording issues part 2
+Issue: Users get stuck 
+Fix: Add a home button to restart, or maybe a clue section if they get stuck.
 Privacy Concerns with Input
 Issue: If users type responses, how is that data handled?
 Fix: Clearly state that no data is stored (unless the tool is published online with backend storage). Avoid sensitive prompts if unsure about data privacy.
