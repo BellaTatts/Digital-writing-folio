@@ -34,7 +34,9 @@ In the Index, he then included the image codes, which he can then use to code in
 
 <img width="307" alt="Screen Shot 2025-06-06 at 4 53 14 pm" src="https://github.com/user-attachments/assets/bc134431-8163-414c-afed-7e09250dae8d" />
 
-I have been struggling to find links to how I can add animation into the scroll animation. I assume I could probably use GIFs - or would I need to animate them myself?
+I have been struggling to find links on how I can add animation to the scroll animation. I assume I could probably use GIFs - or would I need to animate them myself?
+
+YouTube link: https://www.youtube.com/watch?v=UmzFk68Bwdk
 
 ### Twine
 I haven't had any issues with deploying the coding playground, however, I made a note to utilise Vercel in case of any issues.
@@ -117,5 +119,5 @@ I thought the use of hypertext was well done as it was succinct in moving betwee
 #### Practical Assignment 2 planning
 
 Idea/Concept: A Futuristic look into AI in a world without life. I am looking at ideas of how I could fit the scroll animation into my work. Since I am considering looking at The Vine and the Fish as my example for assignment 1, I have been researching how to work with it with CSS. I am not quite confident with the overall coding part, but I have been looking at videos like down below to help translate some of the language. Although twine does have many good elements too, that might fit better if I want the story to be more interactive.
-https://www.youtube.com/watch?v=UmzFk68Bwdk
+
 
