@@ -1,4 +1,4 @@
-<img width="1444" alt="Screen Shot 2025-06-06 at 5 40 41 pm" src="https://github.com/user-attachments/assets/cf58b14f-5fdb-404c-8029-db0ae6f7c1c5" />### **Hypertext fiction Print Precursors examples and my opinions on them:**
+### **Hypertext fiction Print Precursors examples and my opinions on them:**
 
 **Marc Saporta, Composition No. 1 (1961)**
 
@@ -193,11 +193,14 @@ Notes: This is just a tool to process thoughts and not really a way for me to cl
 
 Toward Assessment 2
 
-Proposals discussion and reflections in folio  Required Activity for Final Folio
+Proposal discussion and reflections in folio.  Required Activity for Final Folio
+
+4 prototype photos
 
 
+What is emerging for you in terms of your own piece toward Assessment 2 and 3:
 
-What is emerging for you in terms of your own piece toward Assessment 2 and 3
+I have decided to use twine instead of scroll animation.
 
 What platform and technology does it require?
 
