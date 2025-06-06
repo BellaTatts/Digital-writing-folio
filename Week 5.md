@@ -191,11 +191,86 @@ Notes: This is just a tool to process thoughts and not really a way for me to cl
 
 
 
-Toward Assessment 2
+### **Toward Assessment 2**
 
-Proposal discussion and reflections in folio.  Required Activity for Final Folio
+Proposal discussion and reflections in folio:
 
-4 prototype photos
+The ma
+
+Types of Prototypes I am considering: 
+
+**Prototype 1:** Interactive Fiction Story
+
+**Description:**
+
+A branching narrative where the user plays as a detective solving a mystery. Each choice influences the story’s direction and ending.
+
+**Common Issues & Troubleshooting:**
+
+Broken Links (Red Passage Links)
+Issue: When you click a link and it leads nowhere.
+Cause: The passage it links to does not exist or has a typo.
+Fix: Double-check spelling and capitalization of passage names. Use Twine’s “Passage Map” view to spot unconnected nodes.
+Unclear Story Flow
+Issue: Readers lose track of the plot or get confused by too many branches.
+Fix: Use variables to control story flow. Add a variable like $clueFound and set it when the player discovers key evidence, guiding them back to the main plot.
+Debugging Variables
+Issue: Conditions don’t work as expected (e.g., the story says you found the clue when you didn’t).
+Fix: Use the built-in debug mode (Story > Test Play) and the browser console to print variable values using <<print $clueFound>>.
+
+**Prototype 2:** Educational Quiz Game
+
+**Description:**
+
+A multiple-choice quiz where players receive immediate feedback and scores at the end.
+
+**Common Issues & Troubleshooting:**
+
+Score Not Updating
+Issue: The $score variable doesn’t increment.
+Cause: Incorrect syntax (e.g., set $score =+ 1 instead of +=).
+Fix: Use correct Harlowe or SugarCube syntax (e.g., <<set $score += 1>> for SugarCube). Always check documentation for syntax.
+Answer Feedback Display Problems
+Issue: Clicking an answer doesn’t show whether it’s right or wrong.
+Fix: Use <<if>> statements to conditionally show feedback, and test each path. Consider showing feedback on the same passage to reduce errors from navigation.
+Persistent Scores Between Tries
+Issue: When replaying, old scores persist.
+Fix: Reset variables at the start of the story (<<set $score to 0>>). Consider adding a "Reset Quiz" button that reloads the game.
+Prototype 3: Dialogue-Based RPG Mini Game
+Description:
+
+The player interacts with different characters, building relationships based on conversation choices.
+
+**Common Issues & Troubleshooting:**
+
+Branch Overload
+Issue: Complex dialogue trees are hard to manage.
+Fix: Modularize conversations. Keep each major dialogue in its own passage or passage cluster. Use conditionals (<<if $friendshipLevel is 2>>) to manage dynamic responses instead of duplicating content.
+Relationship Variables Not Saving
+Issue: Choices don’t impact relationships.
+Fix: Use clear and consistent variable names ($alexTrust, $sarahMood). Track changes carefully and test using Twine’s variable viewer or by outputting values on screen (<<print $alexTrust>>).
+Player Choices Looping Incorrectly
+Issue: Repetitive options keep reappearing.
+Fix: Use flags to mark visited options (<<set $talkedToAlex to true>>) and use <<if not $talkedToAlex>> to hide options after they're used.
+
+**Prototype 4:** Mental Health Self-Help Interactive Tool
+
+**Description:**
+
+A reflective journaling experience where users select prompts and receive affirmations and coping strategies based on their mood.
+
+**Common Issues & Troubleshooting:**
+
+Tone Mismatch or Repetitiveness
+Issue: Reused affirmations or responses feel robotic or inappropriate.
+Fix: Create multiple variations of supportive messages and randomize them using arrays (in SugarCube: <<set _affirmations = ["You're doing great.", "Take a deep breath.", "This moment will pass."]>> <<print _affirmations.random()>>).
+Navigation Confusion
+Issue: Users get lost in the interface.
+Fix: Add a home button or a persistent sidebar with clear links back to main areas. Use consistent UI/UX patterns.
+Privacy Concerns with Input
+Issue: If users type responses, how is that data handled?
+Fix: Clearly state that no data is stored (unless the tool is published online with backend storage). Avoid sensitive prompts if unsure about data privacy.
+
 
 
 What is emerging for you in terms of your own piece toward Assessment 2 and 3:
