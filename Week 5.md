@@ -1,4 +1,4 @@
-### **Hypertext fiction Print Precursors examples and my opinions on them:**
+<img width="1444" alt="Screen Shot 2025-06-06 at 5 40 41 pm" src="https://github.com/user-attachments/assets/cf58b14f-5fdb-404c-8029-db0ae6f7c1c5" />### **Hypertext fiction Print Precursors examples and my opinions on them:**
 
 **Marc Saporta, Composition No. 1 (1961)**
 
@@ -104,7 +104,7 @@ Rhizome can create change, and Deterritorialization refers to the change in whic
 
 I would like to say that with every change there is a concurring response - or another way of seeing it is that, like with writing, it is an assemblage of multiple parts, and each time we take from the original, a new part is formed with old links to the original.
 
-References
+**References**
 
 Aarseth, E. J. (1997). _No Sense of an Ending: Hypertext Aesthetics._ In Espen J. Aarseth 1965-, Cybertext : perspectives on ergodic literature (pp. 76–96). Johns Hopkins University Press. https://rmit.alma.exlibrisgroup.com/view/delivery/61RMIT_INST/12269642080001341
 
@@ -164,34 +164,38 @@ These frameworks challenge essentialist categories and invite more fluid, partic
 
 **How could you plan hypertext fiction?**
 
-A: there are a few ways i could do this - I really like the idea of hypertext but in a literary form, a bit like pale fire. I think it is a plausiable method of creating a physical copy of hypertext.
+A: There are a few ways I could do this - I like the idea of hypertext but in a literary form, a bit like Pale Fire. I think it is a plausible method of creating a physical copy of hypertext.
 
-**"in what sense can a hypertext be a narrative?**
+**"In what sense can a hypertext be a narrative?**
 
-A: I would say that hypertext is a tool that can be used to narrate a story rather than purely narrative. In a sense hypertext can direct a story and be the control behind which way a story goes, but I wouldnt refer to it as narrative as it doesnt write the story. I would argue that the narrator is what guides the reader and thus the story, which means that while hypertext is just a tool it can have narrative elements.
+A: I would say that hypertext is a tool that can be used to narrate a story rather than a purely narrative one. In a sense, hypertext can direct a story and be the control behind which way a story goes, but I wouldn't refer to it as narrative as it doesn't write the story. I would argue that the narrator is what guides the reader and thus the story, which means that while hypertext is just a tool, it can have narrative elements.
 
 
 **Is hypertext a literary genre or a literary technique?"**
 
-A: 
+A: Like the question above, I believe it is plausible to argue that it can be both. But, for the sake of this question, I would have to say that hypertext is a literary technique, simply because it is mainly used to enhance features already present in a text or to make the written word poetic, prose or just generally more interactively appealing to the viewer/reader. More so, Hypertext fiction is a subset of electronic literature — “work with an important literary aspect that takes advantage of the capabilities and contexts provided by the stand-alone or networked computer." () while hypertext, as we have discussed elsewhere, can be external of the internet i would still argue that it is a simple tool not a literary genre.
 
+**Reference**
+Clifton M. (2021). _Hypertext fiction: The Literary Genre that was theorized before it was written._ Berkeley Fiction Review. 
+https://berkeleyfictionreview.org/2021/08/02/hypertext-fiction-the-literary-genre-that-was-theorized-before-it-was-written/
 
-**Tools to plan out my work/ what works, what doesnt**
+**Tools to plan out my work/ what works, what doesn't**
+A:
+Miro: I have had a lot of success with Miro, the tool itself allows me to integrate both visuals and the beginnings of ideas. I have just set up a new page and will start to plan out my idea for my final assignment.
 
-A: 
-Miro: I have had a lot of success with Miro, the tool itself allows me to intergrate both visuals and the beignnings of ideas. I have just set up a new page and will start to plan out my idea for my final assingment.
+Padlet: I have used Padlet before, and while I like the function and accessibility of it, I find the system finicky and not as clean as Miro. 
 
-Padlet: I have used padlet before and while I like the function and accesibilty of it, I find the system finicky and not as clean but as Miro. 
+Scrivener: I didn't mind the setup for this as it was a lot more clean cut and easier to use, however moving and planning what I wanted was harder and not as easy, I think in future if I wanted to plan out anoything i would need a tool which encomapsed both accesibilty and more interactivty.
 
-Scrivener: I didnt mind the setup for this as it was a lot more clean cut and easier to use, however moving and planning what I wanted was harder and not as easy, i think in future if I wanted to plan out anoything i would need a tool which encomapsed both accesibilty and more interactivty.
-
-Notes: This is really just a tool to process thoughts and not reall a way for me to cleanly plan out my story.
+Notes: This is just a tool to process thoughts and not really a way for me to clean plan out my story.
 
 
 
 Toward Assessment 2
 
-Proposals discussion and reflections in folio Required Activity for Final Folio
+Proposals discussion and reflections in folio  Required Activity for Final Folio
+
+
 
 What is emerging for you in terms of your own piece toward Assessment 2 and 3
 
