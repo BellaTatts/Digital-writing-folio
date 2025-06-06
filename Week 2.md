@@ -48,3 +48,12 @@ The work while slightly difficult to understand infers that the coding practise 
 **Quote:** Slots A creative programmer can impose outside (artificial) order and formal structure in computer poems by designing a framework where only certain components are randomly filled by grammatically appropriate words.
 
 Include coding excerises here, start planning case study due in week 4 
+
+
+References
+
+Hedley, J. (2024). _Digital poesis impulse: A methodology of creative coding with GPT as co-pilot._ TEXT, 28(1). https://doi.org/10.52086/001c.116921
+
+Jeremy Douglass. (2620). _Enlightening Interactive Fiction :  Andrew Plotkin’s Shade._ Electronic Book Review. http://electronicbookreview.com/essay/enlightening-interactive-fiction-andrew-plotkins-shade/
+
+Funkhouser, C. T. (2009). _Kissing the Steak: The Poetry of Text Generators._ In F. J. Ricardo, Literary Art in Digital Performance: Case Studies in New Media Art and Criticism (pp. 69–83). Bloomsbury Academic & Professional.
