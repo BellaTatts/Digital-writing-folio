@@ -64,7 +64,13 @@ Digital poetry expands the boundaries of textuality by integrating visual, audit
 
 Memmott's chapter challenges traditional literary criticism by presenting digital poetry as a dynamic and evolving field that defies simple categorization. It calls for a more nuanced understanding that appreciates the technological, performative, and individual aspects of digital poetic works.
 
+References 
 
+Motte, W. F. (1986). _Introduction. In Warren F Motte translator._ (Ed.), Oulipo : a primer of potential literature (pp. 1–22). University of Nebraska Press. https://rmit.alma.exlibrisgroup.com/view/delivery/61RMIT_INST/12268640080001341
+
+Lori Emerson. (2014). _Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier._ In Lori Emerson, Reading Writing Interfaces (pp. 1-). University of Minnesota Press. https://doi.org/10.5749/j.ctt6wr7dw.5
+
+Memmott, T. (2006). _Beyond Taxonomy: Digital Poetics and the Problem of Reading._ In Adalaide Kirby Morris 1942- & Thomas Swiss 1952- (Eds.), New media poetics : contexts, technotexts, and theories (pp. 293–306). MIT Press. https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=3338652&ppg=306
 
 **Questions:**
 
