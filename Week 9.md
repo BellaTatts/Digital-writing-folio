@@ -20,6 +20,13 @@ It is a requirement that you have published your version of the coding playgroun
 In previous years, people have lost marks on the final assessment where they have said things like "I don't know how to publish my site". The multiple video recordings, such as the one above and the Twine image maps video that shows you how to create and publish a Twine project, are designed to help you overcome such hurdles. If you need a video recording of any other specific knowledge, please request it in advance. We will not be available for consultation beyond the final class on Wednesday 28th May so figure out what you need to know asap.
 
 
+Readings
+
+References
+
+Ikeda, R. (n.d.). _Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique._ https://doi.org/10.7273/CCTW-4415
+
+
 Today we will continue work on the creative development of your piece. You will work in small groups to workshop your concept and prototype pages asking your peers to consider the same questions you considered yourself last week:
 
 What are the themes and ideas the piece is exploring?
