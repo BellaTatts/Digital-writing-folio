@@ -34,7 +34,90 @@ Jenny has also recorded a quick video tutorial that will take you through the th
 
 Since Assessment Two is coming up, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far.
 
-Assessment 2: 
+### **Assessment 2 details: **
+
+**Prototype link**: 
+
+Prototype examples/what I am currently worknig with:
+
+<img width="1468" alt="Screen Shot 2025-06-06 at 5 59 39 pm" src="https://github.com/user-attachments/assets/73808b9b-e519-40ed-aa45-0765f8db1a1d" />
+
+Concept & Creative Goal (1 minute)
+In this story, the player wakes up in a world that feels familiar — like a sleek game or VR social space — but something is off.
+
+There's no memory of logging in, no menu, no logout button.
+The NPCs (non-player characters) seem too self-aware. Some want to help. Others warn you to forget escape.
+The more the player explores, the more the story glitches — passages loop, choices contradict themselves, and even the AI guide begins to question reality.
+My goal is to use Twine’s interactive form to mimic the feeling of being trapped — not through action sequences, but through narrative dissonance and limited control.
+
+3. Draft Creative Work / Prototype Demo (1.5–2 minutes)
+[Show your Twine prototype or screenshots of passages.]
+
+Here’s a quick look at the prototype:
+
+The first passage greets the player with a system message:
+"Welcome back, USER. Loading your consciousness..."
+The user is given three choices:
+“Try to remember how you got here”
+“Speak to the nearest avatar”
+“Find the exit”
+Each leads to different realities:
+
+Some choices loop back to the beginning, but with small differences — new text, corrupted messages, or system anomalies.
+There are over 25 passages, with three main endings:
+Escape — if the player accepts they are a simulation.
+Assimilation — the character gives in and becomes part of the system.
+Reboot — the loop resets but the player remembers, implying endless repetition.
+I’ve used Twine’s variables to track memory fragments (like $memoryCount) and change what information appears over time, creating a psychological breadcrumb trail.
+
+4. Planning & Development Process (1–1.5 minutes)
+Stage 1: Concept and Writing
+
+Developed a branching story based on 3 core ideas:
+Loss of identity in virtual spaces
+Looped time / recursion
+Digital emotion vs real-world memory
+Stage 2: Twine Structure
+
+Used SugarCube for its robust variable tracking.
+Added conditions like:
+<<if $memoryCount >= 3>> to unlock new dialogue.
+<<goto>> and <<display>> to create “glitch loops.”
+Stage 3: Testing & Feedback
+
+I did early playtests with peers. Feedback included:
+Add more “visible” consequences to player choices.
+So I added more divergent endings and meta-messages where the story talks to the player — as if it knows they’re reading it.
+5. Market Research & Creative Relevance (1 minute)
+There’s growing interest in stories about being stuck in digital spaces, especially since AI, VR, and simulation theory have entered popular culture.
+
+Think Black Mirror, The Matrix, or SOMA. But those are mostly passive — films or games.
+Twine gives players agency — not just what happens, but how it feels.
+This project appeals to:
+
+Interactive fiction fans on platforms like Itch.io
+Digital storytelling educators
+Young adults exploring identity and mental health in online spaces
+There’s also educational potential — it raises critical questions about AI, consent, memory, and control.
+
+6. Budget & Expansion Plans (30–45 seconds)
+Right now, the project is built solo and free using Twine, but future development could include:
+
+$500–$800 budget for:
+Custom glitch soundscapes or audio feedback
+Minimalist art/UI overlays
+Expanded writing + professional editing
+Timeline to Completion:
+
+June: Final branching edits
+July: Playtesting round 2
+August: Release on Itch.io and submit to interactive fiction festivals
+7. Closing Statement / Call to Action (30 seconds)
+"System Error: You Are Still Logged In" is a story where the player is both the explorer and the prisoner. It uses Twine to mirror the unsettling nature of being stuck — not physically, but psychologically, in a reality that no longer makes sense.
+This project pushes narrative design beyond just choice — into the territory of identity, immersion, and unreality.
+
+I’m excited to keep refining it and would love your feedback, ideas, or collaboration. Thank you!
+
 
 
 Today's class will be a working session. I would really like to see everyone's concept/story mapping so far (see week 5 activity) and plans toward Ass 2, including an achievable list of things to do over the break. Jenny and I won't be available for trouble shooting as we will be on leave so it's important you plan out what you need to do and contingencies for what you will present.
