@@ -1,10 +1,5 @@
 Assignment 2 - process of creating the final piece.
 
-![Page-1-Panel-5](https://github.com/user-attachments/assets/8c75d68c-e0d9-43e8-acb4-b0b78897cdeb)
-
-
-<img width="523" alt="Screen Shot 2025-05-13 at 10 02 54 am" src="https://github.com/user-attachments/assets/6eb3dc1b-a310-4307-a98e-f7a1c340aca1" />
-
 At the moment, I'm trying to create a GitHub website, as doing such a thing will allow me to create the scroll animation effect. I'm using Visual Studio Code, but I am having problems with the website.
 
 <img width="735" alt="Screen Shot 2025-05-13 at 10 20 22 am" src="https://github.com/user-attachments/assets/ca9da766-2385-46cf-b58d-cab62a98b864" />
