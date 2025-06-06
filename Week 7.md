@@ -42,6 +42,15 @@ Prototype examples/what I am currently worknig with:
 
 <img width="1468" alt="Screen Shot 2025-06-06 at 5 59 39 pm" src="https://github.com/user-attachments/assets/73808b9b-e519-40ed-aa45-0765f8db1a1d" />
 
+Electronic Literature (e-lit)
+
+This work draws directly from electronic literature theory, particularly the ideas of N. Katherine Hayles, who argues that in digital environments, "text becomes dynamic, procedural, and performative."
+Twine supports this by making the story non-linear and procedural, where the player must perform their identity through interaction.
+
+Hypertext & Post-Structuralism
+
+Inspired by theorists like Roland Barthes and Espen Aarseth, this story treats narrative as non-hierarchical, rejecting a single “true” path. Barthes’ idea of the writerly text — where the reader constructs meaning — is central here. The player’s path defines the character’s memory, personality, and fate.
+
 Concept & Creative Goal (1 minute)
 In this story, the player wakes up in a world that feels familiar — like a sleek game or VR social space — but something is off.
 
