@@ -133,3 +133,4 @@ Montfort, N. (2004). _Riddles. In Nick Montfort, Twisty little passages : an a
 Short, E. (2007). _On Savoir-Faire. In Pat Harrigan (Ed.), Second person : role playing and story in games and playable media_ (pp. 147–148). MIT Press. https://rmit.alma.exlibrisgroup.com/view/delivery/61RMIT_INST/12270521920001341
 
 
+Assigement 2: ![Uploading Screen Shot 2025-06-06 at 5.40.41 pm.png…]()
