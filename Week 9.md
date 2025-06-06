@@ -7,21 +7,37 @@ so here is the what I am worknig with so far with the website:
 
 I am trying to add a theme, but I am struggling with how to go about that. I'm not sure if it is to do with adding another file or just an entirely new repository, but so far I have managed to alter the colouring to the light pink that I want, I may even just keep the structure as is but alter wording!
 
-Today we will focus on making author websites in Glitch using an easy-to-use template built by Jenny with the help of ChatGPT. We will publish our author sites through GitHub, assigning them the URL username.github.io, much like Jenny's author website is on jennyhedley.github.io. If you miss class, you can read about how to publish to your github.io page.
+Playground published to Rowan glowing bream!
 
-Here is the website which you can edit for your own purposes. You may also create your own design from scratch or with the help of AI.
 
-Very important video notice re Publishing Your Coding Playground & Fixing ./style.css directory issues
-
-We will cover the content from this video in class, however, if you miss class please watch this 5-minute clip. This video covers an important fix to the stylesheet directory which anticipates our work today building author websites and publishing them through GitHub pages. This is a coding solution you will want to be mindful of across any of your HTML/CSS projects published through GitHub, which involves changing the code in the <head> of your index.html file from <link rel="stylesheet" href="/style.css" /> to <link rel="stylesheet" href="./style.css" />. The dot before the /style.css becomes very important as soon as you claim your username.github.io webpage!
-
-It is a requirement that you have published your version of the coding playground - which we worked on in Weeks 1–3 - and included it in your Assessment 3 folio which you should familiarise yourself with now. You will need to include the URL of both your GitHub repository for the playground, and one link either to the deployed site which you've published through GitHub Pages, Vercel, Netlify or other free host. Same for your author website, main project and other coding experiments.
-
-In previous years, people have lost marks on the final assessment where they have said things like "I don't know how to publish my site". The multiple video recordings, such as the one above and the Twine image maps video that shows you how to create and publish a Twine project, are designed to help you overcome such hurdles. If you need a video recording of any other specific knowledge, please request it in advance. We will not be available for consultation beyond the final class on Wednesday 28th May so figure out what you need to know asap.
 
 
 Readings
+Ryan Ikeda's essay, "Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique", published in the Electronic Book Review in January 2021, offers a critical examination of how structural racism is embedded within the infrastructure of electronic literature (e-lit). Ikeda employs an infrastructural critique to analyze how databases, fellowships, publications, and literary histories within the e-lit community perpetuate racial hierarchies and privilege white experience.
+facebook.com
++4
+electronicbookreview.com
++4
+electronicbookreview.com
++4
 
+Key Themes and Arguments
+White Supremacy as Infrastructure: Ikeda argues that white supremacy operates not just through overt acts of racism but is embedded in the very structures that support e-lit. This includes databases like the ELMCIP Knowledge Base, which, upon searching for terms like "blackness" or "race," yielded zero results, highlighting how certain discourses are marginalized or erased within the field. 
+electronicbookreview.com
++2
+electronicbookreview.com
++2
+electronicbookreview.com
++2
+Antiracism as Infrastructural Critique: The essay positions antiracism as a necessary critique of the material and symbolic structures that uphold white supremacy in e-lit. Ikeda suggests that without addressing these foundational elements, initiatives aimed at equity and inclusion may inadvertently perpetuate existing power dynamics. 
+electronicbookreview.com
+Rhetorical Analysis of E-Lit Structures: Ikeda employs rhetorical analysis to examine how e-lit infrastructures—such as databases, fellowships, and publications—function as persuasive acts that construct and affirm racialized hierarchies. This approach reveals how these structures not only reflect but also actively produce racial inequalities. 
+electronicbookreview.com
+Implications for the E-Lit Community
+Ikeda's critique challenges the e-lit community to confront the embedded logics of white supremacy within its infrastructures. By recognizing and addressing these structural issues, the field can move towards a more inclusive and equitable practice that genuinely reflects diverse voices and experiences. This essay serves as a call to action for scholars and practitioners to engage in antiracist practices that go beyond surface-level initiatives and delve into the foundational structures that shape the field. 
+electronicbookreview.com
+
+For a more in-depth exploration of Ikeda's arguments and analysis, you can read the full essay here:
 References
 
 Ikeda, R. (n.d.). _Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique._ https://doi.org/10.7273/CCTW-4415
