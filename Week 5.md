@@ -104,6 +104,16 @@ Rhizome can create change, and Deterritorialization refers to the change in whic
 
 I would like to say that with every change there is a concurring response - or another way of seeing it is that, like with writing, it is an assemblage of multiple parts, and each time we take from the original, a new part is formed with old links to the original.
 
+References
+
+Aarseth, E. J. (1997). _No Sense of an Ending: Hypertext Aesthetics._ In Espen J. Aarseth 1965-, Cybertext : perspectives on ergodic literature (pp. 76–96). Johns Hopkins University Press. https://rmit.alma.exlibrisgroup.com/view/delivery/61RMIT_INST/12269642080001341
+
+Moulthrop, S. (2021)._ Hypertext Fiction Ever After._ Bloomsbury Publishing. https://doi.org/10.5040/9781501363474.ch-013
+
+Sutton, D. (2008). _Deleuze reframed : a guide for the arts student_ (D. Martin-Jones, Ed.). I.B. Tauris.
+
+
+
 **Regarding our discussion about new terms and concepts for thinking beyond binaries: author/reader text/audience ficion/fact etc, and genres or 'silos': novel, poetry, essay, memoir, literature, art, game etc
 How could you plan hypertext fiction?**
 
